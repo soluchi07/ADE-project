@@ -17,8 +17,8 @@ thrombocytopenia,platelets,100549,platelets,thrombocytopenia,,,thrombocytopenia,
 thrombocytopenia,platelets,100549,platelets,thrombocytopenia,,,thrombocytopenia,Thrombocytopenia,67,100
 thrombocytopenia,chemotherapy,100549,chemotherapy,thrombocytopenia,,,thrombocytopenia,Thrombocytopenia,72,100
 two transfusion reactions,platelets,100549,platelets,two transfusion reactions,,,transfusion reaction,Transfusion reaction,67,88
-transfusion reaction,platelets,100549,platelets,transfusion reaction,,,transfusion reaction,Transfusion reaction,67,100
-PRA positive,platelets,100549,platelets,pra positive,,,faecal occult blood positive,Faecal occult blood positive,67,85
+transfusion reaction,platelet,100549,platelet,transfusion reaction,,,transfusion reaction,Transfusion reaction,67,100
+PRA positive,platelet,100549,platelet,pra positive,,,faecal occult blood positive,Faecal occult blood positive,67,85
 transfusion reaction,platelets,100549,platelets,transfusion reaction,,,transfusion reaction,Transfusion reaction,67,100
 transfusion reaction,platelets,100549,platelets,transfusion reaction,,,transfusion reaction,Transfusion reaction,67,100
 difficulty breathing,paralytic,100759,paralytic,difficulty breathing,,,attention concentration difficulty,Attention concentration difficulty,72,85
@@ -42,7 +42,7 @@ RENAL FAILURE,cyclosporin,103430,cyclosporin,renal failure,,,renal failure,Renal
 systolic blood pressure in 60's,nimodpine,103480,nimodpine,systolic blood pressure in 60s,nimodipine,nimodipine,pain in jaw,Pain in jaw,94,85
 rash,cefepime,103761,cefepime,rash,cefepime,cefepime,rash,Rash,100,100
 fluid overload,prbc,103761,prbc,fluid overload,,,fluid overload,Fluid overload,67,100
-fluid overload,platelets,103761,platelets,fluid overload,,,fluid overload,Fluid overload,67,100
+fluid overload,platelet,103761,platelet,fluid overload,,,fluid overload,Fluid overload,67,100
 neutropenia,bactrim,103761,bactrim,neutropenia,,,neutropenia,Neutropenia,76,100
 neutropenia,bactrim,103761,bactrim,neutropenia,,,neutropenia,Neutropenia,76,100
 neutropenic,decitabine,103761,decitabine,neutropenic,gemcitabine,gemcitabine,neutropenia,Neutropenia,85,90

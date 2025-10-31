@@ -151,15 +151,16 @@ def build_sider_clean(drug_names_path: Path, meddra_path: Path,
         if drug_name:
             drug_norm = normalize_text(drug_name)
             se_norm = normalize_text(se)
-            
+
             if drug_norm and se_norm:
                 pairs.append({
-                    'drug_name': drug_norm,
-                    'side_effect': se_norm
+                    'drug_norm': drug_norm,
+                    'ade_norm': se_norm
                 })
     
     df_pairs = pd.DataFrame(pairs)
     if len(df_pairs) > 0:
+        # drop exact duplicates before counting frequency
         df_pairs = df_pairs.drop_duplicates()
     
     print(f'   Successfully joined {len(stitch_to_drug)} drugs with side effects')
@@ -286,14 +287,26 @@ def main():
     # ========== STEP 2: Build SIDER clean dataset ==========
     print('\n[2] Building SIDER clean dataset...')
     sider_pairs = build_sider_clean(drug_names_path, meddra_path, atc_stitch_path)
-    
+
     sider_out_dir = base / 'data' / 'sider' / 'processed'
     sider_out_dir.mkdir(parents=True, exist_ok=True)
     sider_out = sider_out_dir / 'sider_clean.csv'
-    
-    sider_pairs.to_csv(sider_out, index=False)
-    
-    valid_pairs = sider_pairs[(sider_pairs['drug_name'] != '') & (sider_pairs['side_effect'] != '')]
+
+    # Aggregate frequency counts for each normalized drug-ADE pair
+    if len(sider_pairs) > 0:
+        freq_df = (
+            sider_pairs
+            .groupby(['drug_norm', 'ade_norm'])
+            .size()
+            .reset_index(name='frequency')
+        )
+    else:
+        freq_df = pd.DataFrame(columns=['drug_norm', 'ade_norm', 'frequency'])
+
+    # Write the SIDER clean file with explicit columns: drug_norm, ade_norm, frequency
+    freq_df.to_csv(sider_out, index=False)
+
+    valid_pairs = freq_df[(freq_df['drug_norm'] != '') & (freq_df['ade_norm'] != '')]
     print(f'   Wrote {len(valid_pairs)} drug-side effect pairs to {sider_out}')
     
     if len(valid_pairs) == 0:
