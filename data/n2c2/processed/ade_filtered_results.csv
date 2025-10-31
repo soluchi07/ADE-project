@@ -1,0 +1,734 @@
+drug_norm,ade_norm,source_file,is_consistent,sider_match_found,kept,filter_reason
+dilantin,eye discharge,100130,False,False,False,insufficient_evidence
+dilantin,paraesthesia oral,100130,False,False,False,insufficient_evidence
+thiosulfate,paraesthesia oral,100130,False,True,False,insufficient_evidence
+dilantin,rash,100130,False,False,False,insufficient_evidence
+thiosulfate,rash,100130,False,True,False,insufficient_evidence
+dilantin,fevers,100130,False,False,False,insufficient_evidence
+dilantin,muscular weakness,100130,False,False,False,insufficient_evidence
+dilantin,diarrhoea,100130,False,False,False,insufficient_evidence
+chemo,renal failure,100509,False,False,False,insufficient_evidence
+carboplatin,renal failure,100509,False,True,False,insufficient_evidence
+chemotherapy,syndrome sicca,100509,False,False,False,insufficient_evidence
+metoprolol,cns toxicity,100509,False,True,False,insufficient_evidence
+chemotherapy,leukopenia,100509,False,False,False,insufficient_evidence
+chemotherapy,thrombocytopenia,100509,False,False,False,insufficient_evidence
+platelets,thrombocytopenia,100549,False,False,False,insufficient_evidence
+platelets,thrombocytopenia,100549,False,False,False,insufficient_evidence
+chemotherapy,thrombocytopenia,100549,False,False,False,insufficient_evidence
+platelets,transfusion reaction,100549,False,False,True,strong_local_signal
+platelets,transfusion reaction,100549,False,False,True,strong_local_signal
+platelets,faecal occult blood positive,100549,False,False,False,insufficient_evidence
+platelets,transfusion reaction,100549,False,False,True,strong_local_signal
+platelets,transfusion reaction,100549,False,False,True,strong_local_signal
+paralytic,attention concentration difficulty,100759,False,False,False,insufficient_evidence
+paralytic,left ventricular ejection fraction decreased,100759,False,False,False,insufficient_evidence
+paralytics,apnoea,100759,False,False,False,insufficient_evidence
+paralytics,apneic,100759,False,False,False,insufficient_evidence
+betaxolol,neuropathy,102068,True,True,False,insufficient_evidence
+lantus,hypoglycaemia,102068,True,True,True,strong_local_signal
+methadone,abnormal dreams,102357,False,True,False,insufficient_evidence
+methadone,respiratory rate decreased,102357,False,True,False,insufficient_evidence
+methadone,overdose,102357,False,True,True,frequent_association
+methadone,restless legs syndrome,102357,False,True,False,insufficient_evidence
+methadone,overdose,102357,False,True,True,frequent_association
+nsaid,withdrawal bleed,102903,False,False,False,insufficient_evidence
+nsaid,withdrawal bleed,102903,False,False,False,insufficient_evidence
+antibiotics,diarrhoea,102913,False,False,False,insufficient_evidence
+prednisone,11770	serosanguinous oozing,102913,False,True,False,insufficient_evidence
+cyclosporin,nephrotoxicity,103430,False,False,False,insufficient_evidence
+lactulose,diarrhoea,103430,True,True,True,strong_local_signal
+cyclosporin,renal failure,103430,False,False,False,insufficient_evidence
+nimodipine,pain in jaw,103480,False,True,False,insufficient_evidence
+cefepime,rash,103761,True,True,True,strong_local_signal
+prbc,fluid overload,103761,False,False,False,insufficient_evidence
+platelets,fluid overload,103761,False,False,False,insufficient_evidence
+bactrim,neutropenia,103761,False,False,False,insufficient_evidence
+bactrim,neutropenia,103761,False,False,False,insufficient_evidence
+gemcitabine,neutropenia,103761,True,True,True,strong_local_signal
+cyclosporine,adrenal insufficiency,103761,False,False,True,strong_local_signal
+cyclosporine,adrenal insufficiency,103761,False,False,True,strong_local_signal
+cyclosporine,chronic renal insufficiency,103761,False,False,False,insufficient_evidence
+gemcitabine,neutropenia,103761,True,True,True,strong_local_signal
+gemcitabine,neutropenia,103761,True,True,True,strong_local_signal
+flagyl,nausea,103761,False,False,False,insufficient_evidence
+diruetic,dehydration,103903,False,False,False,insufficient_evidence
+diruetic,hypovolaemia,103903,False,False,False,insufficient_evidence
+aspirin,gas,103928,False,True,False,insufficient_evidence
+morphine,pruritus,103928,True,True,False,insufficient_evidence
+acei,heat intolerance,103928,False,False,False,insufficient_evidence
+antibiotics,rash,103930,False,False,True,strong_local_signal
+valproate,behavioral issue,104021,False,True,False,insufficient_evidence
+ativan,somnolence,104021,False,False,False,insufficient_evidence
+ativan,apenea,104021,False,False,False,insufficient_evidence
+depakote,delirium,104021,False,False,False,insufficient_evidence
+valproate,delirium,104021,False,True,False,insufficient_evidence
+steroids,hyperglycaemia,104168,False,False,False,insufficient_evidence
+steroid,eye irritation,104168,False,False,False,insufficient_evidence
+motrin,atn,104271,False,False,False,insufficient_evidence
+ativan,excessively somnolent,104271,False,False,False,insufficient_evidence
+nsaid,dwarfism,104271,False,False,False,insufficient_evidence
+nsaids,atn,104271,False,False,False,insufficient_evidence
+x,rash,104390,True,True,False,insufficient_evidence
+x,hypotension,104390,False,True,False,insufficient_evidence
+cephalosporin,febrile neutropenia,104390,False,False,False,insufficient_evidence
+cephalosporin,tachycardia,104390,False,False,False,insufficient_evidence
+cephalosporin,hypotensive,104390,False,False,False,insufficient_evidence
+cephalosporin,papule,104390,False,False,False,insufficient_evidence
+antibiotics,rash,104390,False,False,True,strong_local_signal
+antibiotics,rash,104390,False,False,True,strong_local_signal
+nafcillin,abdominal pain,104446,True,True,False,insufficient_evidence
+valsartan,hyperkalaemia,104446,True,True,False,insufficient_evidence
+fluoxetine,hypoglycaemia,104549,True,True,True,strong_local_signal
+fluoxetine,abdominal pain lower,104549,False,True,False,insufficient_evidence
+fluoxetine,hypoglycaemia,104549,True,True,True,strong_local_signal
+narcotics,delirium,104665,False,False,False,insufficient_evidence
+lorazepam,respiratory failure,104757,True,True,False,insufficient_evidence
+seroquel,somnolence,104757,False,False,False,insufficient_evidence
+haldol,drowsiness,104757,False,False,False,insufficient_evidence
+trazodone,drowsiness,104757,True,True,False,insufficient_evidence
+haldol,lip dry,104757,False,False,False,insufficient_evidence
+trazodone,lip dry,104757,False,True,False,insufficient_evidence
+trazodone,tardive dyskinesia,104757,True,True,False,insufficient_evidence
+haldol,tardive dyskinesia,104757,False,False,False,insufficient_evidence
+ativan,unresponsive to stimuli,104757,False,False,False,insufficient_evidence
+ativan,desaturation,104757,False,False,False,insufficient_evidence
+detrol,mental status changes,104788,False,False,False,insufficient_evidence
+detrol,nicotinic effects,104788,False,False,False,insufficient_evidence
+versed,respiratory failure,104788,False,False,True,strong_local_signal
+versed,respiratory failure,104788,False,False,True,strong_local_signal
+antibiotics,diarrhoea,104929,False,False,False,insufficient_evidence
+morphine,muscle twitching,104929,True,True,True,consistent_drug_pattern
+morphine,muscle twitching,104929,True,True,True,consistent_drug_pattern
+nsaid,effusion,104929,False,False,False,insufficient_evidence
+nsaid,renal failure,104929,False,False,False,insufficient_evidence
+avastin,thrombocytopenia,104948,False,False,False,insufficient_evidence
+timador,thrombocytopenia,104948,False,False,True,strong_local_signal
+timador,thrombocytopenia,104948,False,False,True,strong_local_signal
+steroid,immunocompromised,104948,False,False,False,insufficient_evidence
+levophed,drug reaction with eosinophilia and systemic symptoms,104948,False,False,False,insufficient_evidence
+amiodarone,bradycardia,104948,True,True,True,strong_local_signal
+ffp,back pain,105088,False,False,False,insufficient_evidence
+ffps,back pain,105088,False,False,False,insufficient_evidence
+narcotics,hypercarbic,105383,False,False,False,insufficient_evidence
+methotrexate,pancytopenia,105444,True,True,True,strong_local_signal
+methotrexate,pancytopenia,105444,True,True,True,strong_local_signal
+morphine,hypoxia,105444,True,True,False,insufficient_evidence
+methotrexate,pancytopenia,105444,True,True,True,strong_local_signal
+folate,pancytopenia,105444,False,True,False,insufficient_evidence
+digoxin,nausea,105446,True,True,False,insufficient_evidence
+lipitor,elevated mood,105446,False,False,False,insufficient_evidence
+digoxin,retching,105446,False,True,False,insufficient_evidence
+haldol,rage,105537,False,False,False,insufficient_evidence
+seroquel,rage,105537,False,False,False,insufficient_evidence
+prednisone,osteoporosis,105537,True,True,False,insufficient_evidence
+x,hepatitis c,105537,False,True,False,insufficient_evidence
+antihypertensive medications,hypotension,105579,False,False,False,insufficient_evidence
+bp medication,hypotension,105579,False,False,False,insufficient_evidence
+blood pressure medications,hypotension,105579,False,False,False,insufficient_evidence
+diuretic,hypotension,105585,False,False,False,insufficient_evidence
+diuretic,hypovolaemia,105585,False,False,True,frequent_association
+diuretic,hypovolaemia,105585,False,False,True,frequent_association
+penicillin,rash,105885,True,True,False,insufficient_evidence
+irinotecan,diahrrea,106015,False,True,False,insufficient_evidence
+panitumab,diahrrea,106015,False,False,False,insufficient_evidence
+chemotherapy,diahrrea,106015,False,False,False,insufficient_evidence
+chemotherapy,diahrrea,106015,False,False,False,insufficient_evidence
+chemo,antibiotic-associated diarrhea,106015,False,False,False,insufficient_evidence
+irinotecan,toxicity to various agents,106015,True,True,True,consistent_drug_pattern
+carafate,toxicity to various agents,106015,False,False,False,insufficient_evidence
+irinotecan,diarrhoea,106015,True,True,False,insufficient_evidence
+irinotecan,toxicity to various agents,106015,True,True,True,consistent_drug_pattern
+irinotecan,proctitis,106015,False,True,False,insufficient_evidence
+chemotherapy,diarrhoea,106015,False,False,False,insufficient_evidence
+chemotherapy,pain in jaw,106015,False,False,False,insufficient_evidence
+oxaliplatin,neuropathy,106015,True,True,False,insufficient_evidence
+phenytoin,drug fever,106076,False,True,False,insufficient_evidence
+benzodiazepine,delirium,106076,False,False,False,insufficient_evidence
+betaxolol,nausea,106334,True,True,False,insufficient_evidence
+betaxolol,vomiting,106334,True,True,False,insufficient_evidence
+betaxolol,dehydration,106334,False,True,False,insufficient_evidence
+betaxolol,dizziness,106334,True,True,False,insufficient_evidence
+benzodiazepines,immune status,106334,False,False,False,insufficient_evidence
+ativan,accidental exposure to product,106334,False,False,False,insufficient_evidence
+x,pinpoint echymoses,106334,False,True,False,insufficient_evidence
+benzodiazepines,oversedation,106334,False,False,False,insufficient_evidence
+chemo,vomiting,106334,False,False,False,insufficient_evidence
+x,brain neoplasm,106334,False,True,False,insufficient_evidence
+chemo,nausea,106334,False,False,False,insufficient_evidence
+heparin,bronchitis,106369,False,True,True,consistent_drug_pattern
+heparin,thrombocytopenia,106369,True,True,True,strong_local_signal
+x,dehydrated,106588,False,True,False,insufficient_evidence
+benzos,respiratory failure,106588,False,False,False,insufficient_evidence
+antipsychotics,respiratory failure,106588,False,False,False,insufficient_evidence
+benzos,somnolent,106588,False,False,False,insufficient_evidence
+antipsychotics,somnolent,106588,False,False,False,insufficient_evidence
+x,hypernatraemia,106588,False,True,False,insufficient_evidence
+x,hyponatraemia,106588,False,True,False,insufficient_evidence
+lisinopril,tongue oedema,106915,False,True,False,insufficient_evidence
+diphenhydramine,drowsiness,106915,True,True,False,insufficient_evidence
+lisinopril,swelling,106915,False,True,True,consistent_drug_pattern
+lisinopril,angioedema,106915,True,True,True,strong_local_signal
+lisinopril,angioedema,106915,True,True,True,strong_local_signal
+dilaudid,hypotension,106945,False,False,False,insufficient_evidence
+narcotics,hypotensive,106945,False,False,False,insufficient_evidence
+pain medication,hypotension,106945,False,False,False,insufficient_evidence
+torasemide,sbp <100,106961,False,True,False,insufficient_evidence
+diuretic,hyponatraemia,106961,False,False,True,frequent_association
+metoprolol,hypotension,106961,True,True,True,consistent_drug_pattern
+digoxin,hypotension,106961,False,True,False,insufficient_evidence
+diltiazem,hypotension,106961,True,True,True,strong_local_signal
+metoprolol,hypotensive,106961,False,True,False,insufficient_evidence
+diltiazem,hypotensive,106961,False,True,False,insufficient_evidence
+cellcept,leukopenia,106967,False,False,False,insufficient_evidence
+lu,osteoporosis,106967,False,True,False,insufficient_evidence
+immunosuppression,hepatitis c,106967,False,False,False,insufficient_evidence
+antibiotics,drug level increased,106967,False,False,False,insufficient_evidence
+flagyl,leukopenia,106967,False,False,True,strong_local_signal
+flagyl,leukopenia,106967,False,False,True,strong_local_signal
+ciprofloxacin,leukopenia,106967,True,True,False,insufficient_evidence
+flagyl,leukopenia,106967,False,False,True,strong_local_signal
+flagyl,leukopenia,106967,False,False,True,strong_local_signal
+mycophenolate,leukopenia,106967,True,True,False,insufficient_evidence
+bactrim,leukopenia,106967,False,False,False,insufficient_evidence
+valcyte,leukopenia,106967,False,False,False,insufficient_evidence
+flagyl,leukopenia,106967,False,False,True,strong_local_signal
+mmf,neutropenia,106967,False,False,False,insufficient_evidence
+steroid,myopathy,106993,False,False,False,insufficient_evidence
+steroid,dm,106993,False,False,False,insufficient_evidence
+alpha-blocker,hypotension,107128,False,False,False,insufficient_evidence
+heparin,thrombocytopenia,107128,True,True,True,strong_local_signal
+anticoagulation,upper respiratory tract infection,107128,False,False,False,insufficient_evidence
+heparin,muscle spasms,107128,False,True,True,consistent_drug_pattern
+heparin,muscle spasms,107128,False,True,True,consistent_drug_pattern
+benzocaine,methaemoglobinaemia,107202,True,True,True,strong_local_signal
+gd-dtpa,injection site bruising,107202,False,True,False,insufficient_evidence
+benzocaine,methaemoglobinaemia,107202,True,True,True,strong_local_signal
+gd-dtpa,cramps of lower extremities,107202,False,True,True,strong_local_signal
+gd-dtpa,cramps of lower extremities,107202,False,True,True,strong_local_signal
+benzocaine,methaemoglobinaemia,107202,True,True,True,strong_local_signal
+gd-dtpa,gingival bleeding,107202,False,True,False,insufficient_evidence
+imdur,hypotension,107421,False,False,False,insufficient_evidence
+anaesthesia,hypotension,107421,False,False,False,insufficient_evidence
+propofol,pancreatitis,107515,True,True,True,strong_local_signal
+propofol,pancreatitis,107515,True,True,True,strong_local_signal
+cefepime,rash,107515,True,True,True,strong_local_signal
+vancomycin,rash,107515,False,False,False,insufficient_evidence
+cefepime,eosinophilia,107515,True,True,False,insufficient_evidence
+vancomycin,eosinophilia,107515,False,False,False,insufficient_evidence
+steroid,hyperglycaemia,107515,False,False,False,insufficient_evidence
+x,mental status changes,107902,False,True,False,insufficient_evidence
+chlorhexidine,dermatitis contact,108539,False,True,False,insufficient_evidence
+chlorhexidine,allergic contact dermatitis,108539,False,True,False,insufficient_evidence
+chlorhexidine,rash,108539,False,True,False,insufficient_evidence
+dilaudid,flushing,108539,False,False,False,insufficient_evidence
+dilaudid,diaphoresis,108539,False,False,False,insufficient_evidence
+nitroglycerin,blood and lymphatic system disorders,108539,True,True,False,insufficient_evidence
+x,asthma,108816,False,True,False,insufficient_evidence
+vinorelbine,neutropenia,108950,True,True,False,insufficient_evidence
+chemo,diarrhoea,108950,False,False,False,insufficient_evidence
+temodar,citrate toxicity,108950,False,False,False,insufficient_evidence
+chemo,leukopenia,108950,False,False,False,insufficient_evidence
+steroids,steroid psychosis,109397,False,False,False,insufficient_evidence
+steroids,leukocytosis,109397,False,False,False,insufficient_evidence
+steroids,hypertension,109397,False,False,False,insufficient_evidence
+cyclosporine,hypertension,109397,False,False,False,insufficient_evidence
+steroids,anxiety,109397,False,False,False,insufficient_evidence
+steroid,manic psychosis,109397,False,False,False,insufficient_evidence
+benzodiazepine,intoxication,109645,False,False,False,insufficient_evidence
+benzodiazepene,intoxication,109645,False,False,False,insufficient_evidence
+pain medication,constipation,109698,False,False,False,insufficient_evidence
+anticoagulation,chest pain,109724,False,False,False,insufficient_evidence
+coumadin,chest pain,109724,False,False,False,insufficient_evidence
+heparin,chest pain,109724,False,True,False,insufficient_evidence
+steroids,elevated mood,109724,False,False,False,insufficient_evidence
+narcotic,pneumonia aspiration,109724,False,False,False,insufficient_evidence
+heparin,thrombocytopenia,110135,True,True,True,strong_local_signal
+heparin,pneumonia due to streptococcus group b,110135,False,True,False,insufficient_evidence
+contrast,esrd,110135,False,False,False,insufficient_evidence
+heparin,thrombocytopenia,110135,True,True,True,strong_local_signal
+heparin,thrombocytopenia,110135,True,True,True,strong_local_signal
+heparin,bronchitis,110135,False,True,True,consistent_drug_pattern
+acetate,food allergy,110135,False,True,False,insufficient_evidence
+5-asa,food allergy,110135,False,True,False,insufficient_evidence
+haldol,immune status,110162,False,False,False,insufficient_evidence
+haldol,lethargic,110162,False,False,False,insufficient_evidence
+lisinopril,angioedema,110162,True,True,True,strong_local_signal
+polysporin,hypersensitivity,110162,False,False,False,insufficient_evidence
+lamictal,rash,110559,False,False,True,strong_local_signal
+lamictal,rash,110559,False,False,True,strong_local_signal
+lamictal,food allergy,110559,False,False,True,frequent_association
+lamictal,rash,110559,False,False,True,strong_local_signal
+vancomycin,dwarfism,110559,False,False,False,insufficient_evidence
+vancomycin,citrate toxicity,110559,False,False,False,insufficient_evidence
+clonazepam,sedation,110559,False,True,False,insufficient_evidence
+clonazepam,rr <12,110559,False,True,False,insufficient_evidence
+vancomycin,citrate toxicity,110559,False,False,False,insufficient_evidence
+vancomycin,kidney function abnormal,110559,False,False,False,insufficient_evidence
+vancomycin,citrate toxicity,110559,False,False,False,insufficient_evidence
+lamictal,food allergy,110559,False,False,True,frequent_association
+lamotrigine,rash,110559,True,True,False,insufficient_evidence
+lamotrigine,citrate toxicity,110559,False,True,False,insufficient_evidence
+vancomycin,citrate toxicity,110559,False,False,False,insufficient_evidence
+lithium,endocrine disorder,110753,False,True,False,insufficient_evidence
+lithium,ckd,110753,False,True,False,insufficient_evidence
+sulfasalazine,reaction to drug excipients,110753,False,True,True,strong_local_signal
+sulfasalazine,reaction to drug excipients,110753,False,True,True,strong_local_signal
+anticoagulation,gingival bleeding,110891,False,False,False,insufficient_evidence
+gleevec,severe acute respiratory syndrome,110891,False,False,False,insufficient_evidence
+gleevec,cramping,110891,False,False,False,insufficient_evidence
+3630	contrast dye,drug reaction with eosinophilia and systemic symptoms,111160,False,False,False,insufficient_evidence
+zosyn,abdominal pain,111160,False,False,False,insufficient_evidence
+ciprofloxacin,abdominal pain,111160,True,True,False,insufficient_evidence
+potassium,hypoglycaemia,111160,False,True,False,insufficient_evidence
+lantus,hypoglycaemia,111160,True,True,True,strong_local_signal
+steroid,delirium,111160,False,False,False,insufficient_evidence
+olanzapine,insomnia,111160,True,True,False,insufficient_evidence
+narcotic,constipated,111274,False,False,False,insufficient_evidence
+narcotic,withdrawal symptom,111274,False,False,False,insufficient_evidence
+contrast,nephropathy,111274,False,False,True,frequent_association
+narcotic,ileus,111274,False,False,False,insufficient_evidence
+narcotics,ileus,111274,False,False,False,insufficient_evidence
+amlodipine,hypotension,111341,False,True,False,insufficient_evidence
+lisinopril,hypotension,111341,True,True,False,insufficient_evidence
+amlodipine,urine output,111341,False,True,False,insufficient_evidence
+lisinopril,urine output,111341,False,True,False,insufficient_evidence
+benadryl,dementia,112226,False,False,False,insufficient_evidence
+neurontin,dementia,112226,False,False,False,insufficient_evidence
+x,body temperature increased,112226,False,True,False,insufficient_evidence
+diltiazem,hypotension,112226,True,True,True,strong_local_signal
+ceftriaxone,rash,112226,True,True,True,strong_local_signal
+x,pain in extremity,112226,False,True,False,insufficient_evidence
+x,rash,112226,True,True,False,insufficient_evidence
+aztreonam,rash,112226,True,True,False,insufficient_evidence
+valium,immune status,112329,False,False,False,insufficient_evidence
+il-2,hypotension,112342,False,False,False,insufficient_evidence
+narcotics,sbo,112342,False,False,False,insufficient_evidence
+il-2,dwarfism,112342,False,False,False,insufficient_evidence
+il-2,injury,112342,False,False,False,insufficient_evidence
+il-2,swelling,112342,False,False,False,insufficient_evidence
+il-2,skin breakdown,112342,False,False,False,insufficient_evidence
+pressors,skin breakdown,112342,False,False,False,insufficient_evidence
+il-2,skin odour abnormal,112342,False,False,False,insufficient_evidence
+depakote,thrombocytopenia,112350,False,False,False,insufficient_evidence
+haldol,erection prolonged,112350,False,False,False,insufficient_evidence
+anesthesia,aspiration,112418,False,False,False,insufficient_evidence
+elavil,nicotinic effects,112445,False,False,False,insufficient_evidence
+elavil,confusional state,112445,False,False,False,insufficient_evidence
+caffeine,supraventricular tachycardia,112446,False,True,False,insufficient_evidence
+x,pain in jaw,112446,False,True,False,insufficient_evidence
+x,renal failure,112446,False,True,False,insufficient_evidence
+caffeine,gamma-glutamyltransferase increased,112446,False,True,False,insufficient_evidence
+bactrim,pre-renal ain,112942,False,False,False,insufficient_evidence
+codeine,immune status,113222,False,True,False,insufficient_evidence
+ativan,angioedema,113222,False,False,False,insufficient_evidence
+labetalol,head pressure,113222,False,True,False,insufficient_evidence
+lisinopril,angioedema,113222,True,True,True,strong_local_signal
+dilantin,angioedema,113222,False,False,False,insufficient_evidence
+ativan,angioedema,113222,False,False,False,insufficient_evidence
+x,febrile neutropenia,113265,False,True,False,insufficient_evidence
+vancomycin,febrile neutropenia,113265,False,False,False,insufficient_evidence
+nafcillin,rash,113265,True,True,True,strong_local_signal
+nafcillin,rash,113265,True,True,True,strong_local_signal
+vancomycin,neutropenia,113265,False,False,False,insufficient_evidence
+furosemide,neutropenia,113265,False,True,True,strong_local_signal
+vancomycin,neutropenia,113265,False,False,False,insufficient_evidence
+furosemide,neutropenia,113265,False,True,True,strong_local_signal
+seroquel,neutropenia,113265,False,False,False,insufficient_evidence
+nafcillin,rash,113265,True,True,True,strong_local_signal
+vancomyocin,white blood cell disorder,113265,False,False,False,insufficient_evidence
+x,decreased appetite,113265,False,True,False,insufficient_evidence
+vancomycin,decreased appetite,113265,False,False,False,insufficient_evidence
+x,neutropenia,113265,False,True,False,insufficient_evidence
+nafcillin,rash,113265,True,True,True,strong_local_signal
+vancomycin,neutropenia,113265,False,False,False,insufficient_evidence
+cefepime,persistent foetal circulation,113265,False,True,False,insufficient_evidence
+vancocine,persistent foetal circulation,113265,False,True,False,insufficient_evidence
+vancomycin,leukopenia,113265,False,False,False,insufficient_evidence
+vancomycin,neutropenia,113265,False,False,False,insufficient_evidence
+seroquel,leukopenia,113265,False,False,False,insufficient_evidence
+x,26453	declining counts,113265,False,True,False,insufficient_evidence
+vancomycin,26453	declining counts,113265,False,False,False,insufficient_evidence
+hydralazine,hypotension,113333,True,True,False,insufficient_evidence
+metoprolol,hypotension,113333,True,True,True,consistent_drug_pattern
+chemo,anaemia,113333,False,False,False,insufficient_evidence
+digoxin,vt,113348,False,True,False,insufficient_evidence
+digoxin,vt,113348,False,True,False,insufficient_evidence
+digoxin,junctional tachycardia,113348,False,True,False,insufficient_evidence
+digoxin,vt,113348,False,True,False,insufficient_evidence
+digoxin,junctional tachycardia,113348,False,True,False,insufficient_evidence
+digoxin,non-sustained ventricular tachycardia,113348,False,True,False,insufficient_evidence
+flagyl,paraesthesia,113607,False,False,False,insufficient_evidence
+flagyl,neuropathy peripheral,113607,False,False,False,insufficient_evidence
+lisinopril,angioedema,113852,True,True,True,strong_local_signal
+lisinopril,unspecified disorder of skin and subcutaneous tissue,113852,True,True,False,insufficient_evidence
+lisinopril,angioedema,113852,True,True,True,strong_local_signal
+lisinopril,swelling,113852,False,True,True,consistent_drug_pattern
+piperacillin,eruption,113858,True,True,False,insufficient_evidence
+piperacillin,rash,113858,True,True,False,insufficient_evidence
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+digoxin,bradycardia,113963,False,True,False,insufficient_evidence
+digoxin,electrocardiogram pr prolongation,113963,True,True,False,insufficient_evidence
+digoxin,immune status,113963,False,True,False,insufficient_evidence
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+oxybutynin,abnormal dreams,113963,False,True,False,insufficient_evidence
+detrol,abnormal dreams,113963,False,False,False,insufficient_evidence
+digoxin,citrate toxicity,113963,False,True,True,frequent_association
+amiodarone,bradycardia,114626,True,True,True,strong_local_signal
+digoxin,bradycardia,114626,False,True,False,insufficient_evidence
+digoxin,bradycardia,114626,False,True,False,insufficient_evidence
+amiodarone,bradycardia,114626,True,True,True,strong_local_signal
+digoxin,calcium low,114626,False,True,False,insufficient_evidence
+digoxin,bradycardia,114626,False,True,False,insufficient_evidence
+digoxin,citrate toxicity,114626,False,True,True,frequent_association
+digoxin,bradycardia,114626,False,True,False,insufficient_evidence
+digoxin,citrate toxicity,114626,False,True,True,frequent_association
+amiodarone,citrate toxicity,114626,False,True,False,insufficient_evidence
+digoxin,citrate toxicity,114626,False,True,True,frequent_association
+depakote,eosinophilia,114901,False,False,False,insufficient_evidence
+divalproex,eosinophilia,114901,False,False,False,insufficient_evidence
+depakaote,fluid and electrolyte imbalance,114901,False,False,False,insufficient_evidence
+contrast dye,anaphylactoid reaction,115138,False,False,False,insufficient_evidence
+contrast dye,hives,115138,False,False,False,insufficient_evidence
+contrast dye,edema cerebral,115138,False,False,False,insufficient_evidence
+contrast dye,flushing,115138,False,False,False,insufficient_evidence
+contrast dye,acute anaphylaxis,115138,False,False,False,insufficient_evidence
+contrast dye,allergic skin reaction,115138,False,False,False,insufficient_evidence
+contrast,flushing,115138,False,False,False,insufficient_evidence
+contrast,edema cerebral,115138,False,False,False,insufficient_evidence
+contrast,hives,115138,False,False,False,insufficient_evidence
+zosyn,rash,115169,False,False,True,strong_local_signal
+fentanyl,hypotensive,115169,True,True,False,insufficient_evidence
+versed,hypotensive,115169,False,False,False,insufficient_evidence
+propofol,hypotensive,115169,False,True,False,insufficient_evidence
+zosyn,rash,115169,False,False,True,strong_local_signal
+zosyn,rash,115169,False,False,True,strong_local_signal
+contrast,nephropathy,115391,False,False,True,frequent_association
+levophed,hypotensive,115433,False,False,False,insufficient_evidence
+dobutamine,chest discomfort,115433,False,True,False,insufficient_evidence
+coumadin,thrombocytopenia,115433,False,False,False,insufficient_evidence
+steroids,leukocytosis,115433,False,False,False,insufficient_evidence
+vancomycin,atn,115466,False,False,False,insufficient_evidence
+vancomycin,renal failure,115466,False,False,False,insufficient_evidence
+prednisone,hematemesis x2,115737,False,True,False,insufficient_evidence
+aspirin,withdrawal bleed,115737,False,True,False,insufficient_evidence
+nsaid,withdrawal bleed,115737,False,False,False,insufficient_evidence
+nsaid,upper respiratory tract infection,115737,False,False,False,insufficient_evidence
+prednisone,upper respiratory tract infection,115737,False,True,True,frequent_association
+nsaid,upper respiratory tract infection,115737,False,False,False,insufficient_evidence
+prednisone,upper respiratory tract infection,115737,False,True,True,frequent_association
+nsaid,ugib,115737,False,False,False,insufficient_evidence
+ogen,leukocytosis,115737,False,True,False,insufficient_evidence
+prednisone,ulcer,115737,True,True,False,insufficient_evidence
+chop,ulcer,115737,False,False,False,insufficient_evidence
+zosyn,diarrhoea,115771,False,False,False,insufficient_evidence
+ativan,somnolence,115771,False,False,False,insufficient_evidence
+narcotics,abnormal dreams,116011,False,False,False,insufficient_evidence
+opioid medications,delirium,116011,False,False,False,insufficient_evidence
+penicillin,allergic contact dermatitis,116011,False,True,False,insufficient_evidence
+pain medications,immune status,116011,False,False,False,insufficient_evidence
+pain medications,delirious,116011,False,False,False,insufficient_evidence
+morphine,altered state of consciousness,116011,False,True,False,insufficient_evidence
+morphine,abnormal dreams,116011,True,True,False,insufficient_evidence
+morphine,delirious,116011,False,True,False,insufficient_evidence
+vicodin,delirious,116011,False,False,False,insufficient_evidence
+codeine,delirious,116011,False,True,False,insufficient_evidence
+amiodarone,pulmonary toxicity,116204,True,True,False,insufficient_evidence
+amiodarone,acute interstitial pneumonitis,116204,True,True,False,insufficient_evidence
+heparin,haemorrhage intracranial,116204,False,True,False,insufficient_evidence
+anticoagulation,pulmonary haemorrhage,116204,False,False,False,insufficient_evidence
+furosemide,hypotensive,116204,True,True,False,insufficient_evidence
+steroid,tumour lysis syndrome,116237,False,False,False,insufficient_evidence
+decadron,paranoia,116237,False,False,False,insufficient_evidence
+pressors,hypotension,116237,False,False,False,insufficient_evidence
+steroid,haemolysis,116237,False,False,False,insufficient_evidence
+decadron,tumour lysis syndrome,116237,False,False,False,insufficient_evidence
+decadron,elevated liver enzyme levels,116237,False,False,False,insufficient_evidence
+chemotherapy,counts dropped,116237,False,False,False,insufficient_evidence
+aldactone,elevated mood,116903,False,False,False,insufficient_evidence
+tetracycline,acute renal insufficiency,116903,False,True,False,insufficient_evidence
+diuresis,acute renal insufficiency,116903,False,False,False,insufficient_evidence
+codeine,multiple allergies,116903,False,True,False,insufficient_evidence
+codeine,gas,116903,False,True,False,insufficient_evidence
+x,acute renal insufficiency,116903,False,True,False,insufficient_evidence
+aldactone,acute renal insufficiency,116903,False,False,False,insufficient_evidence
+octreotide,hand and foot syndrome secondary to sickle cell anaemia,116903,False,True,False,insufficient_evidence
+midodrine,hand and foot syndrome secondary to sickle cell anaemia,116903,False,True,False,insufficient_evidence
+lactulose,diarrhoea,116903,True,True,True,strong_local_signal
+acei,angioedema,117191,False,False,True,strong_local_signal
+acetate,angioedema,117191,False,True,False,insufficient_evidence
+steroid,hypertension,117191,False,False,False,insufficient_evidence
+ace inhibitor,angioedema,117191,False,False,False,insufficient_evidence
+ace inhibitors,lip swelling,117191,False,False,False,insufficient_evidence
+nafcillin,numbness,117191,False,True,False,insufficient_evidence
+metoprolol,raynauds phenomenon,117191,True,True,False,insufficient_evidence
+metoprolol,beta 2 microglobulin increased,117191,False,True,False,insufficient_evidence
+metoprolol,dysphagia,117191,False,True,False,insufficient_evidence
+metoprolol,8781	gi upset,117191,False,True,False,insufficient_evidence
+x,aiha,118491,False,True,False,insufficient_evidence
+x,haemolytic anaemia,118491,False,True,False,insufficient_evidence
+steroids,infection,118491,False,False,False,insufficient_evidence
+x,autoimmune haemolytic anaemia,118491,False,True,False,insufficient_evidence
+octreotide,gamma-glutamyltransferase increased,118491,False,True,False,insufficient_evidence
+aldactone,hyponatraemia,118491,False,False,False,insufficient_evidence
+x,hypotension,118491,False,True,False,insufficient_evidence
+x,autoimmune haemolytic anaemia,118491,False,True,False,insufficient_evidence
+x,aiha,118491,False,True,False,insufficient_evidence
+x,autoimmune haemolytic anaemia,118491,False,True,False,insufficient_evidence
+acetaminophen,confused,118496,False,True,False,insufficient_evidence
+acetaminophen,somnolent,118496,False,True,False,insufficient_evidence
+opioids,immune status,118496,False,False,False,insufficient_evidence
+acetaminophen,immune status,118496,False,True,False,insufficient_evidence
+zithromax,renal failure,119906,False,False,False,insufficient_evidence
+zithromax,liver function test abnormal,119906,False,False,False,insufficient_evidence
+tylenol,body odor,119906,False,False,False,insufficient_evidence
+nsaids,pud,121116,False,False,False,insufficient_evidence
+nsaid,citrate toxicity,121116,False,False,False,insufficient_evidence
+nsaid,gastric ulcer,121116,False,False,False,insufficient_evidence
+nsaid,ulcer,121116,False,False,False,insufficient_evidence
+nsaids,upper respiratory tract infection,121116,False,False,False,insufficient_evidence
+actonel,elevated mood,121116,False,False,False,insufficient_evidence
+lipitor,transaminitis,121116,False,False,False,insufficient_evidence
+x,rash,121631,True,True,False,insufficient_evidence
+bb,bradycardia,121663,False,False,True,strong_local_signal
+ccb,bradycardia,121663,False,False,True,strong_local_signal
+diltiazem,bradycardia,121663,True,True,False,insufficient_evidence
+atenolol,bradycardia,121663,True,True,True,strong_local_signal
+atenolol,hypotension,121663,True,True,False,insufficient_evidence
+diltiazem,hypotension,121663,True,True,True,strong_local_signal
+bb,hypotension,121663,False,False,False,insufficient_evidence
+ccb,hypotension,121663,False,False,False,insufficient_evidence
+ccb,bradycardia,121663,False,False,True,strong_local_signal
+bb,bradycardia,121663,False,False,True,strong_local_signal
+albuterol,tachycardia,121861,False,False,True,strong_local_signal
+steroid,osteoporosis,121861,False,False,False,insufficient_evidence
+albuterol,sinus tachycardia,121861,False,False,False,insufficient_evidence
+albuterol,tachycardia,121861,False,False,True,strong_local_signal
+albuterol,tachycardia,121861,False,False,True,strong_local_signal
+heparin,bronchitis,122090,False,True,True,consistent_drug_pattern
+heparin,thrombocytopenia,122365,True,True,True,strong_local_signal
+heparin,thrombocytopenia,122365,True,True,True,strong_local_signal
+heparin,thrombocytopenia,122365,True,True,True,strong_local_signal
+anticoagulation,hepatic failure,122365,False,False,False,insufficient_evidence
+heparin,bronchitis,122365,False,True,True,consistent_drug_pattern
+chemo,diarrhoea,123204,False,False,False,insufficient_evidence
+ivfs,hypoxia,123204,False,False,False,insufficient_evidence
+chemotherapy,pancytopenia,123204,False,False,False,insufficient_evidence
+laxatives,dairrhea,123204,False,False,False,insufficient_evidence
+atenolol,bradycardia,123755,True,True,True,strong_local_signal
+d51/2 ns,hyponatraemic,123807,False,False,False,insufficient_evidence
+nsaids,renal failure,123807,False,False,False,insufficient_evidence
+blood products,pulmonary oedema,123807,False,False,False,insufficient_evidence
+x,withdrawal bleed,123807,False,True,False,insufficient_evidence
+coumadin,tic,123807,False,False,False,insufficient_evidence
+coumadin,withdrawal bleed,123807,False,False,False,insufficient_evidence
+coumadin,major bleed,123807,False,False,False,insufficient_evidence
+morphine,sob,123807,False,True,False,insufficient_evidence
+blood thinners,blood amylase increased,124142,False,False,False,insufficient_evidence
+bactrim,acute anaphylaxis,124465,False,False,False,insufficient_evidence
+bactrim,hypotension,124465,False,False,False,insufficient_evidence
+bactrim,tachycardia,124465,False,False,False,insufficient_evidence
+bactrim,typhoid fever,124465,False,False,False,insufficient_evidence
+bactrim,rash,124465,False,False,False,insufficient_evidence
+bactrim,hypotension,124465,False,False,False,insufficient_evidence
+bactrim,tachycardia,124465,False,False,False,insufficient_evidence
+bactrim,typhoid fever,124465,False,False,False,insufficient_evidence
+bactrim,local reaction,124465,False,False,False,insufficient_evidence
+vancocine,red man syndrome,124465,True,True,True,consistent_drug_pattern
+bactrim,anaphylactoid reaction,124465,False,False,False,insufficient_evidence
+bactrim,skin disorder,124465,False,False,False,insufficient_evidence
+bactrim,acute anaphylaxis,124465,False,False,False,insufficient_evidence
+bactrim,hypotension,124465,False,False,False,insufficient_evidence
+antibiotics,rash,124465,False,False,True,strong_local_signal
+bactrim,hypotensive,124465,False,False,False,insufficient_evidence
+bactrim,hyperkalaemia,125281,False,False,False,insufficient_evidence
+synercid,hyperkalaemia,125281,False,False,False,insufficient_evidence
+heparin,thrombocytopenia,126085,True,True,True,strong_local_signal
+argatroban,bronchitis,126085,False,True,False,insufficient_evidence
+florinef,hypertension,127018,False,False,False,insufficient_evidence
+midodrine,hypertension,127018,True,True,False,insufficient_evidence
+risperidone,orthostatic hypotension,127018,True,True,False,insufficient_evidence
+acei,angioedema,127018,False,False,True,strong_local_signal
+lisinopril,angioedema,127018,True,True,True,strong_local_signal
+acei,angioedema,127018,False,False,True,strong_local_signal
+midodrine,hypertensive,127018,False,True,False,insufficient_evidence
+florinef,hypertensive,127018,False,False,False,insufficient_evidence
+x,orthostatic hypotension,127018,False,True,False,insufficient_evidence
+lisinopril,orthostatic hypotension,127018,True,True,False,insufficient_evidence
+lisinopril,angioedema,127018,True,True,True,strong_local_signal
+haldol,typhoid fever,129109,False,False,False,insufficient_evidence
+haldol,neuroleptic malignant syndrome,129109,False,False,False,insufficient_evidence
+labetalol,nausea,131345,True,True,False,insufficient_evidence
+versed,immune status,133235,False,False,False,insufficient_evidence
+fentanyl,immune status,133235,False,True,False,insufficient_evidence
+metformin,tic,135234,False,True,False,insufficient_evidence
+steroids,sugars are elevated,135234,False,False,False,insufficient_evidence
+metformin,lactic acidosis,135234,False,True,False,insufficient_evidence
+dexamethasone,leukocytosis,135234,True,True,False,insufficient_evidence
+ace inhibitor,cough,138089,False,False,False,insufficient_evidence
+antipsychotic medications,body odor,139178,False,False,False,insufficient_evidence
+choline,urine output,139178,False,True,False,insufficient_evidence
+choline,urinary retention,139178,False,True,False,insufficient_evidence
+psychiatric medications,thrombocytopenia,139178,False,False,False,insufficient_evidence
+fluconazole,thrombocytopenia,139178,True,True,False,insufficient_evidence
+ogen,urinary retention,139178,False,True,False,insufficient_evidence
+12072	medications which required intermittent catheterization,urinary retention,139178,False,False,False,insufficient_evidence
+narcotic,overdose,139825,False,False,False,insufficient_evidence
+warfarin,coagulopathy,139955,False,True,False,insufficient_evidence
+antibiotic,coagulopathy,139955,False,False,False,insufficient_evidence
+x,syncope,141447,False,True,False,insufficient_evidence
+nitroglycerin,syncope,141447,True,True,False,insufficient_evidence
+x,tic,141447,False,True,False,insufficient_evidence
+amiodarone,bradycardia,141447,True,True,True,strong_local_signal
+diuretics,hypernatraemia,142444,False,False,False,insufficient_evidence
+oxycodone,constipation,142444,True,True,False,insufficient_evidence
+percocet,constipation,142444,False,False,False,insufficient_evidence
+vicodin,constipation,142444,False,False,False,insufficient_evidence
+hydrocodone,constipation,142444,True,True,False,insufficient_evidence
+dilaudid,constipation,142444,False,False,False,insufficient_evidence
+narcotic pain medications,constipation,142444,False,False,False,insufficient_evidence
+ofloxacin,diarrhoea,146543,True,True,False,insufficient_evidence
+clindamycin,diarrhoea,146543,True,True,False,insufficient_evidence
+ciprofloxacin,colitis,146543,True,True,False,insufficient_evidence
+ofloxacin,colitis,146543,True,True,False,insufficient_evidence
+antibiotic,diarrhoea,146543,False,False,False,insufficient_evidence
+haldol,dystonic reaction,146543,False,False,False,insufficient_evidence
+nsaid,atn,146876,False,False,False,insufficient_evidence
+ace-i,increased upper airway secretion,146944,False,False,False,insufficient_evidence
+ace inhibitors,angioedema,146944,False,False,False,insufficient_evidence
+captopril,angioedema,146944,True,True,False,insufficient_evidence
+captopril,swelling,146944,False,True,False,insufficient_evidence
+ace-i,food allergy,146944,False,False,False,insufficient_evidence
+ace-i,angioedema,146944,False,False,False,insufficient_evidence
+narcotics,hypercapnia,148266,False,False,False,insufficient_evidence
+narcotics,mental disorder,148266,False,False,False,insufficient_evidence
+morphine,somnolent,148266,False,True,False,insufficient_evidence
+ms contin,somnolent,148266,False,False,False,insufficient_evidence
+narcotics,hypoventilation,148266,False,False,False,insufficient_evidence
+propofol,hypotension,148266,True,True,False,insufficient_evidence
+iron,dark circles under eyes,149071,False,True,False,insufficient_evidence
+aspirin,withdrawal bleed,149071,False,True,False,insufficient_evidence
+chemo,oesophagitis,149071,False,False,False,insufficient_evidence
+aspirin,gas,149071,False,True,False,insufficient_evidence
+aspirin,ulcer,149071,True,True,False,insufficient_evidence
+narcotic,respiratory arrest,149239,False,False,False,insufficient_evidence
+diuretic,hyponatraemia,150030,False,False,True,frequent_association
+hctz/triamtrene,hyponatraemia,150030,False,False,False,insufficient_evidence
+thiazide,hyponatraemia,150030,False,True,True,strong_local_signal
+thiazide,severe acute respiratory syndrome,150030,False,True,False,insufficient_evidence
+benadryl,neurogenic bladder,150030,False,False,False,insufficient_evidence
+thiazide,hyponatraemia,150030,False,True,True,strong_local_signal
+nsaid,withdrawal bleed,151483,False,False,False,insufficient_evidence
+nsaid,gas,151483,False,False,False,insufficient_evidence
+ibuprofen,stomach dilation procedure,151483,False,True,False,insufficient_evidence
+ibuprofen,ulcer,151483,True,True,True,strong_local_signal
+coumadin,tic,152311,False,False,False,insufficient_evidence
+valproic acid,thrombocytopenia,152925,False,False,False,insufficient_evidence
+sedatives,delirium,154496,False,False,False,insufficient_evidence
+trileptal,hyponatraemia,156044,False,False,False,insufficient_evidence
+hctz,hyponatraemia,156044,False,False,True,strong_local_signal
+trileptal,calcium low,156044,False,False,False,insufficient_evidence
+heparin,facial eccymoses,156336,False,True,False,insufficient_evidence
+heparin,erythema,156336,True,True,False,insufficient_evidence
+heparin,cellulitis,156336,False,True,False,insufficient_evidence
+ibuprofen,ulcer,156777,True,True,True,strong_local_signal
+naproxen,ulcer,156777,True,True,False,insufficient_evidence
+lipitor,arthralgia,157103,False,False,False,insufficient_evidence
+diltiazem,atrioventricular block first degree,157103,True,True,False,insufficient_evidence
+aggrastat,epistaxis,157103,False,False,False,insufficient_evidence
+aggrastat,loose stools,157103,False,False,False,insufficient_evidence
+heparin,thrombocytopenia,157713,True,True,True,strong_local_signal
+heparin,thrombocytopenia,157713,True,True,True,strong_local_signal
+heparin,thrombocytopenia,157713,True,True,True,strong_local_signal
+5-asa,abnormal withdrawal bleeding,160519,False,True,False,insufficient_evidence
+x,abnormal withdrawal bleeding,160519,False,True,False,insufficient_evidence
+coumadin,abnormal withdrawal bleeding,160519,False,False,False,insufficient_evidence
+x,ugib,160519,False,True,False,insufficient_evidence
+5-asa,gingival bleeding,160519,False,True,False,insufficient_evidence
+x,recurrent gi bleeds,160519,False,True,False,insufficient_evidence
+beta blocker,bradycardia,160519,False,False,True,strong_local_signal
+sedation,bradycardia,160519,False,False,False,insufficient_evidence
+beta blocker,bradycardia,160519,False,False,True,strong_local_signal
+beta blocker,bradycardia,160519,False,False,True,strong_local_signal
+blood thinners,unspecified disorder of skin and subcutaneous tissue,160519,False,False,False,insufficient_evidence
+coumadin,gingival bleeding,160519,False,False,False,insufficient_evidence
+coumadin,recurrent gi bleeds,160519,False,False,False,insufficient_evidence
+x,gingival bleeding,160519,False,True,False,insufficient_evidence
+x,gingival bleeding,160519,False,True,False,insufficient_evidence
+x,rash recurrent,160519,False,True,False,insufficient_evidence
+aspirin,hives,163764,False,True,False,insufficient_evidence
+aspirin,vomiting,163764,True,True,False,insufficient_evidence
+aspirin,food allergy,163764,False,True,False,insufficient_evidence
+dopamine,metabolic acidosis,164726,False,True,False,insufficient_evidence
+vancomycin,periorbital oedema,166054,False,False,False,insufficient_evidence
+vancomycin,skin disorder,166054,False,False,False,insufficient_evidence
+vancomycin,cholesterol serum elevated,166054,False,False,False,insufficient_evidence
+vancomycin,eosinophilia,166054,False,False,False,insufficient_evidence
+ppi,gas,166237,False,False,False,insufficient_evidence
+14103	blood pressure medications,hypotensive,166237,False,False,False,insufficient_evidence
+845	htn meds,tension,166237,False,False,False,insufficient_evidence
+captopril,hypotensive,166237,True,True,False,insufficient_evidence
+13195	hypertension medications,unresponsive to stimuli,166237,False,False,False,insufficient_evidence
+13195	hypertension medications,pulse irregular,166237,False,False,False,insufficient_evidence
+dexamethasone,reaction to drug excipients,166237,False,True,False,insufficient_evidence
+ppi,elevated mood,166237,False,False,False,insufficient_evidence
+lithium,citrate toxicity,166237,False,True,False,insufficient_evidence
+namenda,unresponsive episodes,166237,False,False,False,insufficient_evidence
+namenda,hypertension,166237,False,False,False,insufficient_evidence
+namenda,serotonin syndrome,166237,False,False,False,insufficient_evidence
+wellbutrin,nausea,166237,False,False,False,insufficient_evidence
+wellbutrin,vomiting,166237,False,False,False,insufficient_evidence
+kaopectate,cramps of lower extremities,166237,False,False,False,insufficient_evidence
+kaopectate,alopecia,166237,False,False,False,insufficient_evidence
+chemotherapy,leukopenia,172206,False,False,False,insufficient_evidence
+chemotherapy,elevated liver enzyme levels,172206,False,False,False,insufficient_evidence
+8335	narcotic pain medicine,constipation,174339,False,False,False,insufficient_evidence
+metoprolol,bradycardia,180167,True,True,False,insufficient_evidence
+cardizem,bradycardia,180167,False,False,False,insufficient_evidence
+beta blocker,presyncope,180167,False,False,False,insufficient_evidence
+ccb,presyncope,180167,False,False,False,insufficient_evidence
+dofetilide,presyncope,180167,False,True,False,insufficient_evidence
+dofetilide,bradycardia,180167,True,True,False,insufficient_evidence
+ccb,bradycardia,180167,False,False,True,strong_local_signal
+beta blocker,bradycardia,180167,False,False,True,strong_local_signal
+dofetilide,sinus bradycardia,180167,False,True,False,insufficient_evidence
+metoprolol,sinus bradycardia,180167,False,True,False,insufficient_evidence
+cardizem,sinus bradycardia,180167,False,False,False,insufficient_evidence
+7396	narcotic pain medicine,constipation,181143,False,False,False,insufficient_evidence
+insulin,hypoglycaemia,181643,True,True,True,strong_local_signal
+steroid,hyperglycaemia,181643,False,False,False,insufficient_evidence
+narcotic pain meds,constipation,183331,False,False,False,insufficient_evidence
+steroid,myopathy,183783,False,False,False,insufficient_evidence
+steroid,myopathy,183783,False,False,False,insufficient_evidence
+steroid,myopathy,183783,False,False,False,insufficient_evidence
+stavudine,neuropathy peripheral,185289,True,True,False,insufficient_evidence
+lu,hypoxia,185289,False,True,False,insufficient_evidence
+ceftriaxone,rash,185982,True,True,True,strong_local_signal
+ceftazidime,rash,185982,True,True,False,insufficient_evidence
+x,drug fever,185982,False,True,False,insufficient_evidence
+antibiotics,rash,185982,False,False,True,strong_local_signal
+narcotics,constipation,185982,False,False,False,insufficient_evidence
+azithromycin,head pressure,189637,False,True,False,insufficient_evidence
+azithromycin,allergic skin reaction,189637,False,True,True,strong_local_signal
+insulin,hypoglycaemia,189637,True,True,True,strong_local_signal
+insulin,hypoglycaemia,189637,True,True,True,strong_local_signal
+azithromycin,hypotensive,189637,False,True,False,insufficient_evidence
+azithromycin,allergic skin reaction,189637,False,True,True,strong_local_signal
+939	cholesterol lowering agents,rhabdomyolysis,191061,False,False,False,insufficient_evidence
+oxycodone,sedation,193079,True,True,False,insufficient_evidence
+12114	narcotic pain medicine,constipation,193079,False,False,False,insufficient_evidence
+hctz,hyponatraemia,193079,False,False,True,strong_local_signal
+penicillin,food allergy,196911,False,True,False,insufficient_evidence
+bactrim,febrile bone marrow aplasia,196911,False,False,False,insufficient_evidence
+linezolid,febrile bone marrow aplasia,196911,False,True,False,insufficient_evidence
+meropenem,a-fib,196911,False,True,False,insufficient_evidence
+vincristine,neuropathy peripheral,196911,True,True,False,insufficient_evidence
+x,cystitis haemorrhagic,196911,False,True,False,insufficient_evidence
+vancocine,lips swelled,198207,False,True,False,insufficient_evidence
+levaquin,lips swelled,198207,False,False,False,insufficient_evidence
+vancocine,hives,198207,False,True,False,insufficient_evidence
+levaquin,hives,198207,False,False,False,insufficient_evidence
+vancocine,red man syndrome,198207,True,True,True,consistent_drug_pattern

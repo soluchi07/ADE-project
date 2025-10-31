@@ -1,0 +1,5 @@
+filter_reason,drug_norm,kept
+consistent_drug_pattern,16,16
+frequent_association,21,21
+insufficient_evidence,584,0
+strong_local_signal,112,112

@@ -21,7 +21,7 @@ Apply natural language processing methods to extract drug and ADE mentions from 
 For each drug entity identified in n2c2, use SIDER to check whether the associated ADEs are consistent with documented side effects. This step helps distinguish true ADE mentions from unrelated or ambiguous clinical text.
 
 5. Filtering and noise reduction
-Eliminate false positives by removing drug–ADE pairs that are unlikely to be clinically valid or that do not appear in SIDER, while still allowing for novel ADE detection when patterns strongly suggest an association.
+Eliminate false positives by removing drug-ADE pairs that are unlikely to be clinically valid or that do not appear in SIDER, while still allowing for novel ADE detection when patterns strongly suggest an association.
 
 6. Evaluation and validation
 Compare system outputs against annotated references in n2c2 and analyze improvements in precision and recall after integrating SIDER. This step validates the added value of combining structured resources with clinical text mining.

@@ -1,0 +1,224 @@
+drug_norm,ade_norm,is_consistent,kept
+12072	medications which required intermittent catheterization,1,0,0
+12114	narcotic pain medicine,1,0,0
+13195	hypertension medications,2,0,0
+14103	blood pressure medications,1,0,0
+3630	contrast dye,1,0,0
+5-asa,3,0,0
+7396	narcotic pain medicine,1,0,0
+8335	narcotic pain medicine,1,0,0
+845	htn meds,1,0,0
+939	cholesterol lowering agents,1,0,0
+ace inhibitor,2,0,0
+ace inhibitors,2,0,0
+ace-i,3,0,0
+acei,4,0,3
+acetaminophen,3,0,0
+acetate,2,0,0
+actonel,1,0,0
+aggrastat,2,0,0
+albuterol,4,0,3
+aldactone,3,0,0
+alpha-blocker,1,0,0
+amiodarone,7,6,4
+amlodipine,2,0,0
+anaesthesia,1,0,0
+anesthesia,1,0,0
+antibiotic,2,0,0
+antibiotics,8,0,5
+anticoagulation,5,0,0
+antihypertensive medications,1,0,0
+antipsychotic medications,1,0,0
+antipsychotics,2,0,0
+argatroban,1,0,0
+aspirin,8,2,0
+atenolol,3,3,2
+ativan,9,0,0
+avastin,1,0,0
+azithromycin,4,0,2
+aztreonam,1,1,0
+bactrim,20,0,0
+bb,3,0,2
+benadryl,2,0,0
+benzocaine,3,3,3
+benzodiazepene,1,0,0
+benzodiazepine,2,0,0
+benzodiazepines,2,0,0
+benzos,2,0,0
+beta blocker,5,0,4
+betaxolol,5,4,0
+blood pressure medications,1,0,0
+blood products,1,0,0
+blood thinners,2,0,0
+bp medication,1,0,0
+caffeine,2,0,0
+captopril,3,2,0
+carafate,1,0,0
+carboplatin,1,0,0
+cardizem,2,0,0
+ccb,5,0,3
+cefepime,4,3,2
+ceftazidime,1,1,0
+ceftriaxone,2,2,2
+cellcept,1,0,0
+cephalosporin,4,0,0
+chemo,9,0,0
+chemotherapy,12,0,0
+chlorhexidine,3,0,0
+choline,2,0,0
+chop,1,0,0
+ciprofloxacin,3,3,0
+clindamycin,1,1,0
+clonazepam,2,0,0
+codeine,4,0,0
+contrast,6,0,2
+contrast dye,6,0,0
+coumadin,9,0,0
+cyclosporin,2,0,0
+cyclosporine,4,0,2
+d51/2 ns,1,0,0
+decadron,3,0,0
+depakaote,1,0,0
+depakote,3,0,0
+detrol,3,0,0
+dexamethasone,2,1,0
+digoxin,26,2,9
+dilantin,7,0,0
+dilaudid,4,0,0
+diltiazem,6,5,3
+diphenhydramine,1,1,0
+diruetic,2,0,0
+diuresis,1,0,0
+diuretic,5,0,4
+diuretics,1,0,0
+divalproex,1,0,0
+dobutamine,1,0,0
+dofetilide,3,1,0
+dopamine,1,0,0
+elavil,2,0,0
+fentanyl,2,1,0
+ffp,1,0,0
+ffps,1,0,0
+flagyl,8,0,5
+florinef,2,0,0
+fluconazole,1,1,0
+fluoxetine,3,2,2
+folate,1,0,0
+furosemide,3,1,2
+gd-dtpa,4,0,2
+gemcitabine,3,3,3
+gleevec,2,0,0
+haldol,10,0,0
+hctz,2,0,2
+hctz/triamtrene,1,0,0
+heparin,24,13,18
+hydralazine,1,1,0
+hydrocodone,1,1,0
+ibuprofen,3,2,2
+il-2,6,0,0
+imdur,1,0,0
+immunosuppression,1,0,0
+insulin,3,3,3
+irinotecan,5,3,2
+iron,1,0,0
+ivfs,1,0,0
+kaopectate,2,0,0
+labetalol,2,1,0
+lactulose,2,2,2
+lamictal,5,0,5
+lamotrigine,2,1,0
+lantus,2,2,2
+laxatives,1,0,0
+levaquin,2,0,0
+levophed,2,0,0
+linezolid,1,0,0
+lipitor,3,0,0
+lisinopril,15,11,10
+lithium,3,0,0
+lorazepam,1,1,0
+lu,2,0,0
+meropenem,1,0,0
+metformin,2,0,0
+methadone,5,0,2
+methotrexate,3,3,3
+metoprolol,10,4,2
+midodrine,3,1,0
+mmf,1,0,0
+morphine,9,5,2
+motrin,1,0,0
+ms contin,1,0,0
+mycophenolate,1,1,0
+nafcillin,6,5,4
+namenda,3,0,0
+naproxen,1,1,0
+narcotic,6,0,0
+narcotic pain medications,1,0,0
+narcotic pain meds,1,0,0
+narcotics,10,0,0
+neurontin,1,0,0
+nimodipine,1,0,0
+nitroglycerin,2,2,0
+nsaid,15,0,0
+nsaids,4,0,0
+octreotide,2,0,0
+ofloxacin,2,2,0
+ogen,2,0,0
+olanzapine,1,1,0
+opioid medications,1,0,0
+opioids,1,0,0
+oxaliplatin,1,1,0
+oxybutynin,1,0,0
+oxycodone,2,2,0
+pain medication,2,0,0
+pain medications,2,0,0
+panitumab,1,0,0
+paralytic,2,0,0
+paralytics,2,0,0
+penicillin,3,1,0
+percocet,1,0,0
+phenytoin,1,0,0
+piperacillin,2,2,0
+platelets,8,0,4
+polysporin,1,0,0
+potassium,1,0,0
+ppi,2,0,0
+prbc,1,0,0
+prednisone,6,2,2
+pressors,2,0,0
+propofol,4,3,2
+psychiatric medications,1,0,0
+risperidone,1,1,0
+sedation,1,0,0
+sedatives,1,0,0
+seroquel,4,0,0
+stavudine,1,1,0
+steroid,15,0,0
+steroids,9,0,0
+sulfasalazine,2,0,2
+synercid,1,0,0
+temodar,1,0,0
+tetracycline,1,0,0
+thiazide,3,0,2
+thiosulfate,2,0,0
+timador,2,0,2
+torasemide,1,0,0
+trazodone,3,2,0
+trileptal,2,0,0
+tylenol,1,0,0
+valcyte,1,0,0
+valium,1,0,0
+valproate,2,0,0
+valproic acid,1,0,0
+valsartan,1,1,0
+vancocine,5,2,2
+vancomycin,22,0,0
+vancomyocin,1,0,0
+versed,4,0,2
+vicodin,2,0,0
+vincristine,1,1,0
+vinorelbine,1,1,0
+warfarin,1,0,0
+wellbutrin,2,0,0
+x,40,3,0
+zithromax,2,0,0
+zosyn,5,0,3
