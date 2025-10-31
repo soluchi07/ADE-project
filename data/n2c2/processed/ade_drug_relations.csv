@@ -1,0 +1,734 @@
+text_ade,text_drug,source_file
+eye discharge,Dilantin,100130
+oral sores,Dilantin,100130
+oral sores,sulfate,100130
+rash,Dilantin,100130
+rash,sulfate,100130
+fevers,Dilantin,100130
+weakness,Dilantin,100130
+diarrhea,Dilantin,100130
+Acute Renal failure,chemo,100509
+Acute Renal failure,carboplatin,100509
+14403	tumor lysis syndrome,chemotherapy,100509
+beta blocker toxicity,Metoprolol,100509
+Leukopenia,chemotherapy,100509
+thrombocytopenia,chemotherapy,100509
+thrombocytopenia,platelets,100549
+thrombocytopenia,platelets,100549
+thrombocytopenia,chemotherapy,100549
+two transfusion reactions,platelets,100549
+transfusion reaction,platelet,100549
+PRA positive,platelet,100549
+transfusion reaction,platelets,100549
+transfusion reaction,platelets,100549
+difficulty breathing,paralytic,100759
+decreased oxygen levels,paralytic,100759
+apnea,paralytics,100759
+apneic,paralytics,100759
+neuropathy,taxol,102068
+hypoglycemia,lantus,102068
+AMS,methadone,102357
+5762	decreased respiratory rate,methadone,102357
+overdose,methadone,102357
+Restless Leg syndrome,methadone,102357
+overdosed,methadone,102357
+UGI bleed,nsaid,102903
+GI bleed,NSAID,102903
+Diarrhea,antibiotics,102913
+11770	serosanguinous oozing,prednisone,102913
+nephrotoxity,cyclosporin,103430
+DIARRHEA,Lactulose,103430
+RENAL FAILURE,cyclosporin,103430
+systolic blood pressure in 60's,nimodpine,103480
+rash,cefepime,103761
+fluid overload,prbc,103761
+fluid overload,platelet,103761
+neutropenia,bactrim,103761
+neutropenia,bactrim,103761
+neutropenic,decitabine,103761
+renal insufficiency,cyclosporine,103761
+renal insufficiency,cyclosporine,103761
+401	chronic renal insufficiency,cyclosporine,103761
+Neutropenic fever,decitabine,103761
+neutropenic,decitabine,103761
+severe nausea,Flagyl,103761
+dehydration,diruetic,103903
+intravascular hypovolemia,diruetic,103903
+Gastrointestinal bleed,aspirin,103928
+Pruritis,Morphine,103928
+intolerance,ACEi,103928
+rash,antibiotics,103930
+behavioral issue,valproate,104021
+somnolence,ativan,104021
+apenea,ativan,104021
+delirium,Depakote,104021
+delerium,valproate,104021
+Hyperglycemia,steroids,104168
+11814	stomach irritation,steroid,104168
+ATN,Motrin,104271
+excessively somnolent,Ativan,104271
+ARF,NSAID,104271
+ATN,NSAIDs,104271
+rash,Abx,104390
+hypotension,Keflex,104390
+febrile,cephalosporin,104390
+tachycardic,cephalosporin,104390
+hypotensive,cephalosporin,104390
+pruritic pink papules,cephalosporin,104390
+rash,antibiotics,104390
+rash,antibiotics,104390
+AIN,Nafcillin,104446
+HYPERKALEMIA,valsartan,104446
+hypoglycemia,fluoxetine,104549
+19120	lower the seizure threshold,fluoxetine,104549
+hypoglycemia,fluoxetine,104549
+delerium,narcotics,104665
+11545	acute hypercarbic respiratory failure,lorazepam,104757
+somnolence,seroquel,104757
+drowsiness,Haldol,104757
+drowsiness,Trazodone,104757
+2743	lip smacking,Haldol,104757
+2743	lip smacking,Trazodone,104757
+tardive dyskinesia,Trazodone,104757
+tardive dyskinesia,Haldol,104757
+unresponsive,Ativan,104757
+desaturation,Ativan,104757
+mental status changes,Detrol,104788
+anticholinergic side effects,Detrol,104788
+Respiratory failure,Versed,104788
+1596	respiratory failure over-sedation,Versed,104788
+Diarrhea,antibiotics,104929
+itching,Morphine,104929
+itching,Morphine,104929
+effusion,NSAID,104929
+acute renal failure,NSAID,104929
+thrombocytopenia,Avastin,104948
+thrombocytopenia,timador,104948
+thrombocytopenia,Timador,104948
+immunocompromised,steroid,104948
+tachyarrhythmnias (Afib with RVR),levophed,104948
+bradycardic,Amiodarone,104948
+severe lower back pain,FFP,105088
+severe lower back pain,FFPs,105088
+hypercarbic,narcotics,105383
+pancytopenia,methotrexate,105444
+Pancytopenia,methotrexate,105444
+hypoxia,morphine,105444
+Pancyopenia,methotrexate,105444
+Pancyopenia,folate,105444
+nausea,digoxin,105446
+968	AST/ALT were mildy elevated,lipitor,105446
+retching,digoxin,105446
+made the patient feel strage,Haldol,105537
+made the patient feel strage,Seroquel,105537
+osteoporosis,Prednisone,105537
+C. diff,ABX,105537
+Hypotension,antihypertensive medications,105579
+hypotension,BP medication,105579
+hypotension,blood pressure medications,105579
+Hypotension,diuretic,105585
+hypovolemia,diuretic,105585
+hypovolemia,diuretic,105585
+rash,Penicillin,105885
+diahrrea,irinotecan,106015
+diahrrea,panitumab,106015
+diahrrea,chemotherapy,106015
+diahrrea,chemotherapy,106015
+intractable diarrhea,chemo,106015
+GI toxicity,irinotecan,106015
+aluminum toxicity,carafate,106015
+Diarrhea,irinotecan,106015
+GI toxicity,irinotecan,106015
+radiation proctitis,irinotecan,106015
+diarrhea,chemotherapy,106015
+"20544	ulceration in your esophagus, stomach and colon",chemotherapy,106015
+neuropathy,Oxaliplatin,106015
+drug fever,phenytoin,106076
+delirium,benzodiazepine,106076
+nausea,Taxol,106334
+vomiting,Taxol,106334
+dehydration,Taxol,106334
+dizziness,Taxol,106334
+ALTERED MENTAL STATUS,benzodiazepines,106334
+brady'd to the 30s,ativan,106334
+pinpoint echymoses,lovenox,106334
+over-sedation,benzodiazepines,106334
+VOMITING,chemo,106334
+hemorrhagic brain mets,Lovenox,106334
+NAUSEA,chemo,106334
+HIT,Heparin,106369
+Thrombocytopenia,Heparin,106369
+dehydrated,Lasix,106588
+Hypercarbic respiratory failure,benzos,106588
+Hypercarbic respiratory failure,antipsychotics,106588
+somnolent,benzos,106588
+somnolent,antipsychotics,106588
+Hypernatremia,Lasix,106588
+hypovolemia hyponatremia,Lasix,106588
+facial and tongue edema,lisinopril,106915
+drowsiness,6200	Diphenhydramine HCl,106915
+throat and tongue swelling,lisinopril,106915
+Angioedema,lisinopril,106915
+angioedema,lisinopril,106915
+hypotension,dilaudid,106945
+hypotensive,narcotics,106945
+hypotension,pain medication,106945
+SBP <100,Torsemide,106961
+hypovolemic hyponatremia,diuretic,106961
+hypotension,Metoprolol,106961
+hypotension,digoxin,106961
+hypotension,diltiazem,106961
+hypotensive,metoprolol,106961
+hypotensive,diltiazem,106961
+leukopenia,Cellcept,106967
+Osteoporosis,glucocorticoid,106967
+C diff,immunosuppression,106967
+INR level has been higher than optimal,antibiotics,106967
+leukopenia,flagyl,106967
+leukopenia,flagyl,106967
+leukopenia,cipro,106967
+leukopenia,flagyl,106967
+leukopenia,flagyl,106967
+leukopenia,mycophenolate mofetil,106967
+leukopenia,Bactrim,106967
+leukopenia,valcyte,106967
+leukopenia,flagyl,106967
+neutropenia,MMF,106967
+myopathy,steroid,106993
+DM,steroid,106993
+hypotension,alpha-blocker,107128
+thrombocytopenia,heparin,107128
+Upper GI bleed,anticoagulation,107128
+Acute blood loss anemia from Psoas muscle hematoma,Heparin,107128
+a bleed into a hip muscle,heparin,107128
+methemoglobinemia,benzocaine,107202
+bruising,TPA,107202
+methemoglobinemia,benzocaine,107202
+"7843	hematomas of the right knee, left scalp, and left clavicular area",tPA,107202
+"7843	hematomas of the right knee, left scalp, and left clavicular area",TPA,107202
+methemoglobinemia,benzocaine,107202
+bleeding,tPA,107202
+hypotension,Imdur,107421
+hypotension,anaesthesia,107421
+Pancreatitis,propofol,107515
+Pancreatitis,propofol,107515
+Rash,cefepime,107515
+Rash,vancomycin,107515
+eosinophilia,cefepime,107515
+eosinophilia,vancomycin,107515
+hypergylcemia,Steroid,107515
+change in mental status,Serax,107902
+14578	contact dermatitis,chlorhexadine,108539
+contact allergy,chlorhexidine,108539
+skin rash,chlorhexidine,108539
+flush,dilaudid,108539
+diaphoresis,dilaudid,108539
+blood pressure to drop,nitroglycerin,108539
+exacerbate her asthma,protonix,108816
+neutropenia,3400	VinORELbine (Navelbine),108950
+diarrhea,Chemo,108950
+toxicity,Temodar,108950
+Leukopenia,chemo,108950
+steroid psychosis,steroids,109397
+Leukocytosis,steroids,109397
+Hypertension,steroids,109397
+Hypertension,cyclosporine,109397
+Anxiety,steroids,109397
+psychosis,steroid,109397
+intoxication,benzodiazepine,109645
+intoxication,benzodiazepene,109645
+constipation,pain medication,109698
+Chest wall hematoma,anticoagulation,109724
+Chest wall hematoma,coumadin,109724
+Chest wall hematoma,heparin,109724
+fingersticks were very elevated,steroids,109724
+5308	aspiration pneumonia,narcotic,109724
+thrombocytopenia,Heparin,110135
+platelet count to drop,HEPARIN,110135
+ESRD,contrast,110135
+Thrombocytopenia,Heparin,110135
+Thrombocytopenia,Heparin,110135
+HIT,Heparin,110135
+allergy,ace,110135
+allergy,asa,110135
+Altered Mental Status,Haldol,110162
+lethargic,Haldol,110162
+angioedema,Lisinopril,110162
+hypersensitivty,Polysporin,110162
+Rash,lamictal,110559
+Rash,lamictal,110559
+allergy,lamictal,110559
+rash,lamictal,110559
+ARF,vancomycin,110559
+toxicity,vancomycin,110559
+sedation,Clonazepam,110559
+RR <12,Clonazepam,110559
+toxicity,Vancomycin,110559
+kidney failure,vancomycin,110559
+toxicity,vancomycin,110559
+allergy,lamictal,110559
+rash,Lamotrigine,110559
+toxicity,Lamotrigine,110559
+toxicity,Vancomycin,110559
+CRI,lithium,110753
+CKD,lithium,110753
+drug induced lupus,sulfasalazine,110753
+drug induced lupus,Sulfasalazine,110753
+intraperitoneal bleeding from GIST tumors,anticoagulation,110891
+severe cramping,Gleevec,110891
+cramping,Gleevec,110891
+3573	ARF with rare eos (AIN),3630	contrast dye,111160
+AIN,zosyn,111160
+AIN,cipro,111160
+hypoglycemia,SSI,111160
+hypoglycemia,lantus,111160
+delerium,steroid,111160
+insomnia,Olanzapine,111160
+constipated,narcotic,111274
+withdrawal,narcotic,111274
+nephropathy,contrast,111274
+ileus,narcotic,111274
+ileus,narcotics,111274
+hypotension,Amlodipine,111341
+hypotension,lisinopril,111341
+8569	low urine output,Amlodipine,111341
+8569	low urine output,lisinopril,111341
+Dementia,benadryl,112226
+Dementia,neurontin,112226
+increased Eos,CTX,112226
+hypotension,diltiazem,112226
+rash,Ceftriaxone,112226
+bump in Cr,Lasix,112226
+rash,ctx,112226
+rash,aztreonam,112226
+altered mental status,valium,112329
+Hypotension,IL-2,112342
+SBO,narcotics,112342
+ARF,IL-2,112342
+17093	renal injury,IL-2,112342
+swelling,IL-2,112342
+skin breakdown,IL-2,112342
+skin breakdown,pressors,112342
+skin damage,IL-2,112342
+thrombocytopenic w/nadir in 80s,Depakote,112350
+prolonged QT,haldol,112350
+aspiration,anesthesia,112418
+13114	anticholinergic side effects,Elavil,112445
+confusion,Elavil,112445
+3377	supraventricular tachycardia,3429	caffeine citrate,112446
+bilateral calcifications in both kidneys,lasix,112446
+Bilateral renal calcifications,Lasix,112446
+increased heart rate,caffeine,112446
+"pre-renal, AIN",bactrim,112942
+Altered mental status,6160	Tylenol with codeine,113222
+angioedema,Ativan,113222
+1563	pressure dropped,labetolol,113222
+angioedema,Lisinopril,113222
+angioedema,Dilantin,113222
+angioedema,Ativan,113222
+febrile neutropenia,lasix,113265
+febrile neutropenia,vancomycin,113265
+abdominal rash,nafcillin,113265
+drug rash,nafcillin,113265
+Neutropenia,vancomycin,113265
+Neutropenia,furosemide,113265
+Neutropenia,vancomycin,113265
+Neutropenia,furosemide,113265
+neutropenic,seroquel,113265
+rash,Nafcillin,113265
+low cell counts,Vancomyocin,113265
+26271	decreased white blood cells (WBC),lasix,113265
+26271	decreased white blood cells (WBC),vancomycin,113265
+neutropenia,LASIX,113265
+rash,NAFCILLIN,113265
+neutropenia,VANCOMYCIN,113265
+persistent fevers,cefepime,113265
+persistent fevers,vanc,113265
+leukopenia,vancomycin,113265
+neutropenia,vancomycin,113265
+leukopenia,seroquel,113265
+26453	declining counts,lasix,113265
+26453	declining counts,vancomycin,113265
+hypotension,hydralazine,113333
+hypotension,metoprolol,113333
+Anemia,chemo,113333
+NSVT,digoxin,113348
+NSVT,digoxin,113348
+junctional tachycardia,digoxin,113348
+NSVT,digoxin,113348
+5977	junctional tachycardia,digoxin,113348
+non-sustained ventricular tachycardia,digoxin,113348
+parasthesias,flagyl,113607
+Peripheral neuropathy,Flagyl,113607
+angioedema,lisinopril,113852
+"808	lips, tongue and face swelling and it progressivly worsened to include his throat",lisinopril,113852
+angioedema,lisinopril,113852
+4725	swelling in your face and throat,lisinopril,113852
+morbilliform eruption,20008	piperacillin -tazobactam,113858
+rash,20008	piperacillin -tazobactam,113858
+toxicity,digoxin,113963
+toxicity,Digoxin,113963
+bradycardia,Digoxin,113963
+PR prolongation,Digoxin,113963
+Altered Mental Status,digoxin,113963
+toxicity,Digoxin,113963
+toxicity,digoxin,113963
+toxicity,digoxin,113963
+AMS,oxybutynin,113963
+AMS,Detrol,113963
+toxicity,Digoxin,113963
+bradycardia,amiodarone,114626
+bradycardia,digoxin,114626
+bradycardic,digoxin,114626
+bradycardic,amiodarone,114626
+low EF,digoxin,114626
+bradycardia,digoxin,114626
+toxicity,digoxin,114626
+bradycardia,Digoxin,114626
+toxicity,Digoxin,114626
+toxicity,amiodarone,114626
+toxicity,digoxin,114626
+peripheral blood eosinophilia,Depakote,114901
+10510	peripheral blood and pleural fluid eosinophilia,Divalproex,114901
+fluid accumulation,Depakaote,114901
+anaphylactoid reaction,contrast dye,115138
+hives,contrast dye,115138
+periorbital/facial edema,contrast dye,115138
+flushing,contrast dye,115138
+Anaphylaxis,contrast dye,115138
+allergic reaction,contrast dye,115138
+flushing,contrast,115138
+periorbital/facial edema,contrast,115138
+hives,contrast,115138
+drug rash,Zosyn,115169
+hypotensive,fentanyl,115169
+hypotensive,versed,115169
+hypotensive,propofol,115169
+Drug Rash,Zosyn,115169
+petticheal/macular rash,Zosyn,115169
+nephropathy,contrast,115391
+hypotensive,levophed,115433
+chest discomfort,Dobutamine,115433
+Thrombocytopenia,coumadin,115433
+leukocytosis,steroids,115433
+ATN,vancomycin,115466
+Acute Renal Failure,Vancomycin,115466
+hematemesis x2,prednisone,115737
+GI bleed,aspirin,115737
+GI bleed,NSAID,115737
+upper GI bleed,NSAID,115737
+upper GI bleed,prednisone,115737
+Upper GI bleed,NSAID,115737
+Upper GI bleed,prednisone,115737
+UGIB,NSAID,115737
+leukocytosis,neupogen,115737
+6344	multiple gastric ulcers,prednisone,115737
+6344	multiple gastric ulcers,CHOP,115737
+Diarrhea,zosyn,115771
+somnolence,ativan,115771
+AMS,narcotics,116011
+delirium,opioid medications,116011
+allergic,penicillins,116011
+altered mental status,pain medications,116011
+delirious,pain medications,116011
+altered,morphine,116011
+AMS,morphine,116011
+delirious,morphine,116011
+delirious,vicodin,116011
+delirious,codeine,116011
+pulmonary toxicity,amiodarone,116204
+pneumonitis,amiodarone,116204
+Intracranial hemorrage,heparin,116204
+pulmonary hemorrhage,anticoagulation,116204
+hypotensive,furosemide,116204
+2298	tumor lysis syndrome,steroid,116237
+psychotic paranoia,decadron,116237
+hypotension-related ATN,pressors,116237
+lysis,steroid,116237
+tumor lysis syndrome,decadron,116237
+elevated uric acid,decadron,116237
+counts dropped,chemotherapy,116237
+570	elevated creatinines,Aldactone,116903
+acute renal insufficiency,tetracycline,116903
+acute renal insufficiency,diuresis,116903
+allergies,CODEINE,116903
+gastrointestinal upset,CODEINE,116903
+acute renal insufficiency,Lasix,116903
+acute renal insufficiency,Aldactone,116903
+creatinine continued to rise,octreotide,116903
+creatinine continued to rise,midodrine,116903
+diarrhea,lactulose,116903
+Angioedema,ACEI,117191
+angioedema,ACE,117191
+hypertension,steroid,117191
+Angioedema,ACE Inhibitor,117191
+lip swelling,ACE Inhibitors,117191
+tongue/lip numbness,nafcillin,117191
+Raynaud's,Metoprolol,117191
+beta blockade,Metoprolol,117191
+dysphagia,Metoprolol,117191
+8781	GI upset,Metoprolol,117191
+AIHA,lasix,118491
+hemolytic anemia,lasix,118491
+infection,steroids,118491
+autoimmune hemolytic anemia,lasix,118491
+increased GI secretions,octreotide,118491
+hyponatremia,aldactone,118491
+hypotension,Lasix,118491
+auto-immune hemolytic anemia,Lasix,118491
+AIHA,lasix,118491
+Auto-Immune Hemolytic Anemia,lasix,118491
+confused,571	oxycodone -acetaminophen,118496
+somnolent,571	oxycodone -acetaminophen,118496
+Altered mental status,opioids,118496
+altered mental status,571	oxycodone -acetaminophen,118496
+fulminant liver failure,zithromax,119906
+liver insult,zithromax,119906
+OD,tylenol,119906
+PUD,NSAIDs,121116
+toxicity,NSAID,121116
+gastric ulcer,NSAID,121116
+duodenal bulb ulcers,NSAID,121116
+Upper GI Bleed,NSAIDs,121116
+Gastrin level was elevated,Actonel,121116
+transaminitis,Lipitor,121116
+pruritic generalized  rash,lasix,121631
+bradycardia,BB,121663
+bradycardia,CCB,121663
+Symptomatic bradycardia,diltiazem,121663
+Symptomatic bradycardia,atenolol,121663
+hypotension,atenolol,121663
+hypotension,diltiazem,121663
+hypotension,BB,121663
+hypotension,CCB,121663
+bradycardia,CCB,121663
+bradycardia,BB,121663
+tachycardia,albuterol,121861
+risk of osteoporosis,steroid,121861
+sinus tachycardia,albuterol,121861
+Tachycardia,albuterol,121861
+tachycardia,albuterol,121861
+HIT,heparin,122090
+thrombocytopenia,heparin,122365
+Thrombocytopenia,Heparin,122365
+thrombocytopenia,heparin,122365
+subcapsular hepatic bleed,anticoagulation,122365
+HIT,heparin,122365
+Diarrhea,chemo,123204
+Hypoxia,IVFs,123204
+Pancytopenia,chemotherapy,123204
+dairrhea,laxatives,123204
+bradycardic,Atenolol,123755
+hyponatremic,D51/2 NS,123807
+ACUTE RENAL FAILURE,NSAID's,123807
+11616	flash pulmonary edema,blood products,123807
+RP bleed,plavix,123807
+supratherapeutic INR,coumadin,123807
+RP bleed,coumadin,123807
+retroperitoneal bleed,coumadin,123807
+SOB,morphine,123807
+17127	blood collection in your pelvis,blood thinners,124142
+ANAPHYLAXIS,BACTRIM,124465
+hypotension,BACTRIM,124465
+tachycardia,BACTRIM,124465
+fever,BACTRIM,124465
+diffuse rash,Bactrim,124465
+hypotension,Bactrim,124465
+tachycardia,Bactrim,124465
+fever,Bactrim,124465
+3294	anaphylactic-type reaction,Bactrim,124465
+red man syndrome,vanco,124465
+anaphylactic reaction,bactrim,124465
+skin became pink all over,Bactrim,124465
+ANAPHYLAXIS,BACTRIM,124465
+hypotension,Bactrim,124465
+rash,antibiotics,124465
+hypotensive,bactrim,124465
+hyperkalemia,Bactrim,125281
+hyperkalemia,synercid,125281
+10632	induced thrombocytopenia,heparin,126085
+HIT,argatroban,126085
+hypertension,florinef,127018
+hypertension,midodrine,127018
+2343	orthostatic hypotension,risperidone,127018
+angioedema,ACEi,127018
+angioedema,lisinopril,127018
+angioedema,ACEi,127018
+hypertensive,midodrine,127018
+hypertensive,florinef,127018
+orthostatic,flomax,127018
+orthostatic,lisinopril,127018
+angioedema,lisinopril,127018
+fever,Haldol,129109
+Neuroleptic Malignant Syndrome,Haldol,129109
+nausea,labetalol,131345
+Altered Mental Status,versed,133235
+Altered Mental Status,fentanyl,133235
+lactic acid,metformin,135234
+sugars are elevated,steroids,135234
+type B lactic acidosis,metformin,135234
+Leukocytosis,dexamethasone,135234
+cough,ACE inhibitor,138089
+low body temperature,antipsychotic medications,139178
+Poor urine output,anticholinergics,139178
+urinary retention,anticholinergics,139178
+Thrombocytopenia,psychiatric medications,139178
+Thrombocytopenia,fluconazole,139178
+urinary retention,Cogentin,139178
+11996	some urinary retention,12072	medications which required intermittent catheterization,139178
+overdose,narcotic,139825
+Coagulopathy,warfarin,139955
+Coagulopathy,antibiotic,139955
+syncope,flomax,141447
+syncope,nitroglycerin,141447
+orthostatic symptoms,flomax,141447
+bradycardia,amiodarone,141447
+Hypernatremia,diuretics,142444
+constipation,oxycodone,142444
+constipation,percocet,142444
+constipation,vicodin,142444
+constipation,hydrocodone,142444
+constipation,dilaudid,142444
+constipation,narcotic pain medications,142444
+diarrhea,Levofloxacin,146543
+diarrhea,Clindamycin,146543
+colitis,Ciprofloxacin,146543
+colitis,Levofloxacin,146543
+diarrhea,antibiotic,146543
+Dystonic reaction,Haldol,146543
+ATN,NSAID,146876
+Airway Compromise,ACE-I,146944
+angioedema,ACE inhibitors,146944
+7633	severe angioedema,Captopril,146944
+lip and tongue swelling,Captopril,146944
+allergy,ACE-I,146944
+Angioedema,ACE-I,146944
+hypercapnia,narcotics,148266
+7352	altered mental status,narcotics,148266
+somnolent,morphine,148266
+somnolent,MS Contin,148266
+hypoventilation,narcotics,148266
+Transient hypotension,Propofol,148266
+dark stool,iron,149071
+GI bleed,aspirin,149071
+Esophagitis,chemo,149071
+gastrointestinal bleed,aspirin,149071
+GI ulceration,aspirin,149071
+respiratory arrest,narcotic,149239
+Hyponatremia,diuretic,150030
+Hyponatremia,HCTZ/Triamtrene,150030
+5462	severe hyponatremia,thiazide diuretic,150030
+severe hyponatremia,thiazide diuretic,150030
+neurogenic bladder,benadryl,150030
+hyponatremia,thiazide,150030
+Upper Gastrointestinal Bleed,NSAID,151483
+gastropathy,NSAID,151483
+stomach irriation,ibuprofen,151483
+ulcer,ibuprofen,151483
+supratherapeutic INR,coumadin,152311
+thrombocytopenia,valproic acid,152925
+delirium,sedatives,154496
+Hyponatremia,trileptal,156044
+Hyponatremia,HCTZ,156044
+6247	Sodium level was low,trileptal,156044
+Facial eccymoses,heparin,156336
+erythema,heparin,156336
+peri-orbital cellulitis,heparin,156336
+ulcer,ibuprofen,156777
+ulcer,naproxen,156777
+arthralgias,Lipitor,157103
+complete heart block,Diltiazem,157103
+epistasis,Aggrastat,157103
+guaiac positive stools,Aggrastat,157103
+THROMBOCYTOPENIA,Heparin,157713
+thrombocytopenia,Heparin,157713
+thrombocytopenia,heparin,157713
+recurrent bleeding,asa,160519
+recurrent bleeding,plavix,160519
+recurrent bleeding,coumadin,160519
+UGIB,plavix,160519
+bleeding,ASA,160519
+recurrent gi bleeds,plavix,160519
+bradycardia,beta blocker,160519
+Bradycardia,sedation,160519
+Bradycardia,beta blocker,160519
+bradycardia,beta blocker,160519
+17653	leaking of a vessel,blood thinners,160519
+1062	recurrent GI bleeding,coumadin,160519
+recurrent GI bleeds,coumadin,160519
+bleeding,plavix,160519
+bleeding,plavix,160519
+11541	recurrent GI bleeds,plavix,160519
+hives,aspirin,163764
+profuse vomiting,aspirin,163764
+allergy,aspirin,163764
+metabolic acidosis,dopamine,164726
+periorbital edema,vancomycin,166054
+diffuse skin etyhema,vancomycin,166054
+elevated LFT's,vancomycin,166054
+eosinophilia,vancomycin,166054
+elevated gastrin levels,PPI,166237
+hypotensive episodes,14103	blood pressure medications,166237
+tension,845	HTN meds,166237
+hypotensive episodes,Captopril,166237
+unresponsive,13195	hypertension medications,166237
+no breathing or radial pulse for 20 seconds,13195	hypertension medications,166237
+15066	AM cortisol was found to be elevated,dexamethasone,166237
+19536	elevated gastrin levels,PPI,166237
+"""toxicity""",lithium,166237
+unresponsive episodes,Namenda,166237
+hypertension,Namenda,166237
+serotonin syndrome,Namenda,166237
+nausea,Wellbutrin,166237
+vomiting,Wellbutrin,166237
+loss of balance,Kaopectate,166237
+alopecia,Kaopectate,166237
+Leukopenia,chemotherapy,172206
+LFT's were elevated,chemotherapy,172206
+constipation,8335	narcotic pain medicine,174339
+bradycardia,metoprolol,180167
+bradycardia,cardizem,180167
+presyncope,beta blocker,180167
+presyncope,CCB,180167
+presyncope,dofetilide,180167
+bradycardia,dofetilide,180167
+bradycardia,CCB,180167
+bradycardia,beta blocker,180167
+sinus bradycardia,Dofetelide,180167
+sinus bradycardia,Metoprolol,180167
+sinus bradycardia,Cardizem,180167
+constipation,7396	narcotic pain medicine,181143
+prevent hypoglycemia,insulin,181643
+Hyperglycemia,steroid,181643
+constipating,narcotic pain meds,183331
+myopathy,steroid,183783
+myopathy,steroid,183783
+myopathy,steroid,183783
+Peripheral neuropathy,Stavudine,185289
+hypoxia,fluid,185289
+rash,ceftriaxone,185982
+rash,ceftazidime,185982
+drug fever,abx,185982
+rash,antibiotics,185982
+constipation,narcotics,185982
+12890	blood pressure fell,azithromycin,189637
+allergic reaction,azithromycin,189637
+hypoglycemia,insulin,189637
+hypoglycemia,insulin,189637
+hypotensive,azithromycin,189637
+allergic reaction,azithromycin,189637
+rhabdomyolysis,939	cholesterol lowering agents,191061
+sedation,Oxycodone,193079
+constipation,12114	narcotic pain medicine,193079
+hyponatremia,HCTZ,193079
+allergy,Penicillin,196911
+marrow suppression,Bactrim,196911
+marrow suppression,Linezolid,196911
+A-fib,Meropenem,196911
+peripheral neuropathy,vincristine,196911
+hemorrhagic cystitis,cytoxan,196911
+lips swelled,vanc,198207
+lips swelled,levaquin,198207
+hives,vanc,198207
+hives,levaquin,198207
+red man syndrome,vanco,198207

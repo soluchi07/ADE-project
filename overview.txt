@@ -1,0 +1,30 @@
+Adverse Drug Event Detection based on Clinical Notes
+
+Background:
+Adverse Drug Events (ADEs), defined as harm caused by the use of a drug, remain a critical challenge in healthcare due to their prevalence, impact on patient safety, and significant economic burden. They account for millions of outpatient and emergency visits each year and are estimated to be among the leading causes of death in the United States, costing the healthcare system billions annually. Despite rigorous clinical trials, many ADEs are only discovered post-market, particularly within vulnerable populations such as the elderly, which underscores the limitations of current pharmacovigilance systems. Traditional detection methods rely heavily on annotated corpora such as the ADE Corpus and the n2c2 dataset, which provide valuable benchmarks for evaluating extraction tasks but are constrained by their relatively small size and the intensive expert annotation they require. In addition, the unstructured and nuanced language of clinical notes complicates extraction efforts and makes the detection of ADEs and their relationships with drugs a difficult task. Recent research has turned toward leveraging large language models (LLMs) to address these challenges, with techniques such as zero-shot and few-shot prompting, task decomposition strategies like Tree of Thought, and ensemble approaches showing promising results in ADE detection, entity recognition, and relationship extraction. However, even with these advancements, limitations such as data sparsity, over prediction, and challenges in generalization remain. To overcome these constraints and broaden the scope of analysis, it is important to integrate larger curated resources such as the SIDER dataset, which systematically catalogs drugs and their recorded adverse effects, alongside the n2c2 dataset. By leveraging both n2c2 with its rich clinical note structure and SIDER with its comprehensive drug and ADE mappings, we can enhance the depth and scalability of ADE research, creating a stronger foundation for developing reliable detection systems and advancing pharmacovigilance.
+
+Approach:
+Our approach builds on the use of the n2c2 dataset for extracting drug and ADE entities from clinical text and extends it by incorporating the SIDER dataset to improve context engineering. SIDER provides a comprehensive resource that links marketed drugs to a wide range of recorded side effects, many of which also include frequency information derived from package inserts. By leveraging this structured knowledge base, we can enhance ADE extraction by not only identifying drug mentions in clinical notes but also checking whether the side effects described align with common, well-documented reactions in SIDER. This allows us to filter out noise, reduce false positives, and provide a stronger contextual grounding for linking drugs to their likely ADEs. In practice, when a drug entity is detected, the system can cross-reference its typical side effect profile in SIDER to assess whether the observed event is consistent with known pharmacological outcomes, ultimately making ADE extraction more robust and clinically meaningful.
+
+Timeline and Steps:
+SIDER (Link)[http://sideeffects.embl.de/]
+1. Understanding the overlap between SIDER and n2c2
+Begin by comparing the drug and side effect terms present in the n2c2 dataset with those available in SIDER. This step establishes the common ground between structured clinical note data and curated pharmacovigilance data.
+
+2. Preprocessing and normalization of terms
+Standardize drug names and side effect terminology using controlled vocabularies (such as MedDRA or UMLS) to ensure that both datasets align and can be effectively cross-referenced.
+
+3. Entity extraction from n2c2
+Apply natural language processing methods to extract drug and ADE mentions from clinical notes within the n2c2 dataset. This provides the raw candidates for validation.
+
+4. Context engineering with SIDER
+For each drug entity identified in n2c2, use SIDER to check whether the associated ADEs are consistent with documented side effects. This step helps distinguish true ADE mentions from unrelated or ambiguous clinical text.
+
+5. Filtering and noise reduction
+Eliminate false positives by removing drug–ADE pairs that are unlikely to be clinically valid or that do not appear in SIDER, while still allowing for novel ADE detection when patterns strongly suggest an association.
+
+6. Evaluation and validation
+Compare system outputs against annotated references in n2c2 and analyze improvements in precision and recall after integrating SIDER. This step validates the added value of combining structured resources with clinical text mining.
+
+7. Expansion and future integration
+Explore the potential of extending the framework to other pharmacovigilance datasets and evaluate whether SIDER-supported context engineering can generalize across larger, real-world corpora.
