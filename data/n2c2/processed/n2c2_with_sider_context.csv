@@ -1,734 +1,734 @@
-drug_norm,ade_norm,source_file,in_SIDER,frequency
-dilantin,eye discharge,100130,False,
-dilantin,paraesthesia oral,100130,False,
-thiosulfate,paraesthesia oral,100130,False,
-dilantin,rash,100130,False,
-thiosulfate,rash,100130,False,
-dilantin,fevers,100130,False,
-dilantin,muscular weakness,100130,False,
-dilantin,diarrhoea,100130,False,
-chemo,renal failure,100509,False,
-carboplatin,renal failure,100509,False,
-chemotherapy,syndrome sicca,100509,False,
-metoprolol,cns toxicity,100509,False,
-chemotherapy,leukopenia,100509,False,
-chemotherapy,thrombocytopenia,100509,False,
-platelets,thrombocytopenia,100549,False,
-platelets,thrombocytopenia,100549,False,
-chemotherapy,thrombocytopenia,100549,False,
-platelets,transfusion reaction,100549,False,
-platelets,transfusion reaction,100549,False,
-platelets,faecal occult blood positive,100549,False,
-platelets,transfusion reaction,100549,False,
-platelets,transfusion reaction,100549,False,
-paralytic,attention concentration difficulty,100759,False,
-paralytic,left ventricular ejection fraction decreased,100759,False,
-paralytics,apnoea,100759,False,
-paralytics,apneic,100759,False,
-betaxolol,neuropathy,102068,True,
-lantus,hypoglycaemia,102068,True,
-methadone,abnormal dreams,102357,False,
-methadone,respiratory rate decreased,102357,False,
-methadone,overdose,102357,False,
-methadone,restless legs syndrome,102357,False,
-methadone,overdose,102357,False,
-nsaid,withdrawal bleed,102903,False,
-nsaid,withdrawal bleed,102903,False,
-antibiotics,diarrhoea,102913,False,
-prednisone,11770	serosanguinous oozing,102913,False,
-cyclosporin,nephrotoxicity,103430,False,
-lactulose,diarrhoea,103430,True,
-cyclosporin,renal failure,103430,False,
-nimodipine,pain in jaw,103480,False,
-cefepime,rash,103761,True,
-prbc,fluid overload,103761,False,
-platelets,fluid overload,103761,False,
-bactrim,neutropenia,103761,False,
-bactrim,neutropenia,103761,False,
-gemcitabine,neutropenia,103761,True,
-cyclosporine,adrenal insufficiency,103761,False,
-cyclosporine,adrenal insufficiency,103761,False,
-cyclosporine,chronic renal insufficiency,103761,False,
-gemcitabine,neutropenia,103761,True,
-gemcitabine,neutropenia,103761,True,
-flagyl,nausea,103761,False,
-diruetic,dehydration,103903,False,
-diruetic,hypovolaemia,103903,False,
-aspirin,gas,103928,False,
-morphine,pruritus,103928,True,
-acei,heat intolerance,103928,False,
-antibiotics,rash,103930,False,
-valproate,behavioral issue,104021,False,
-ativan,somnolence,104021,False,
-ativan,apenea,104021,False,
-depakote,delirium,104021,False,
-valproate,delirium,104021,False,
-steroids,hyperglycaemia,104168,False,
-steroid,eye irritation,104168,False,
-motrin,atn,104271,False,
-ativan,excessively somnolent,104271,False,
-nsaid,dwarfism,104271,False,
-nsaids,atn,104271,False,
-x,rash,104390,True,
-x,hypotension,104390,False,
-cephalosporin,febrile neutropenia,104390,False,
-cephalosporin,tachycardia,104390,False,
-cephalosporin,hypotensive,104390,False,
-cephalosporin,papule,104390,False,
-antibiotics,rash,104390,False,
-antibiotics,rash,104390,False,
-nafcillin,abdominal pain,104446,True,
-valsartan,hyperkalaemia,104446,True,
-fluoxetine,hypoglycaemia,104549,True,
-fluoxetine,abdominal pain lower,104549,False,
-fluoxetine,hypoglycaemia,104549,True,
-narcotics,delirium,104665,False,
-lorazepam,respiratory failure,104757,True,
-seroquel,somnolence,104757,False,
-haldol,drowsiness,104757,False,
-trazodone,drowsiness,104757,True,
-haldol,lip dry,104757,False,
-trazodone,lip dry,104757,False,
-trazodone,tardive dyskinesia,104757,True,
-haldol,tardive dyskinesia,104757,False,
-ativan,unresponsive to stimuli,104757,False,
-ativan,desaturation,104757,False,
-detrol,mental status changes,104788,False,
-detrol,nicotinic effects,104788,False,
-versed,respiratory failure,104788,False,
-versed,respiratory failure,104788,False,
-antibiotics,diarrhoea,104929,False,
-morphine,muscle twitching,104929,True,
-morphine,muscle twitching,104929,True,
-nsaid,effusion,104929,False,
-nsaid,renal failure,104929,False,
-avastin,thrombocytopenia,104948,False,
-timador,thrombocytopenia,104948,False,
-timador,thrombocytopenia,104948,False,
-steroid,immunocompromised,104948,False,
-levophed,drug reaction with eosinophilia and systemic symptoms,104948,False,
-amiodarone,bradycardia,104948,True,
-ffp,back pain,105088,False,
-ffps,back pain,105088,False,
-narcotics,hypercarbic,105383,False,
-methotrexate,pancytopenia,105444,True,
-methotrexate,pancytopenia,105444,True,
-morphine,hypoxia,105444,True,
-methotrexate,pancytopenia,105444,True,
-folate,pancytopenia,105444,False,
-digoxin,nausea,105446,True,
-lipitor,elevated mood,105446,False,
-digoxin,retching,105446,False,
-haldol,rage,105537,False,
-seroquel,rage,105537,False,
-prednisone,osteoporosis,105537,True,
-x,hepatitis c,105537,False,
-antihypertensive medications,hypotension,105579,False,
-bp medication,hypotension,105579,False,
-blood pressure medications,hypotension,105579,False,
-diuretic,hypotension,105585,False,
-diuretic,hypovolaemia,105585,False,
-diuretic,hypovolaemia,105585,False,
-penicillin,rash,105885,True,
-irinotecan,diahrrea,106015,False,
-panitumab,diahrrea,106015,False,
-chemotherapy,diahrrea,106015,False,
-chemotherapy,diahrrea,106015,False,
-chemo,antibiotic-associated diarrhea,106015,False,
-irinotecan,toxicity to various agents,106015,True,
-carafate,toxicity to various agents,106015,False,
-irinotecan,diarrhoea,106015,True,
-irinotecan,toxicity to various agents,106015,True,
-irinotecan,proctitis,106015,False,
-chemotherapy,diarrhoea,106015,False,
-chemotherapy,pain in jaw,106015,False,
-oxaliplatin,neuropathy,106015,True,
-phenytoin,drug fever,106076,False,
-benzodiazepine,delirium,106076,False,
-betaxolol,nausea,106334,True,
-betaxolol,vomiting,106334,True,
-betaxolol,dehydration,106334,False,
-betaxolol,dizziness,106334,True,
-benzodiazepines,immune status,106334,False,
-ativan,accidental exposure to product,106334,False,
-x,pinpoint echymoses,106334,False,
-benzodiazepines,oversedation,106334,False,
-chemo,vomiting,106334,False,
-x,brain neoplasm,106334,False,
-chemo,nausea,106334,False,
-heparin,bronchitis,106369,False,
-heparin,thrombocytopenia,106369,True,
-x,dehydrated,106588,False,
-benzos,respiratory failure,106588,False,
-antipsychotics,respiratory failure,106588,False,
-benzos,somnolent,106588,False,
-antipsychotics,somnolent,106588,False,
-x,hypernatraemia,106588,False,
-x,hyponatraemia,106588,False,
-lisinopril,tongue oedema,106915,False,
-diphenhydramine,drowsiness,106915,True,
-lisinopril,swelling,106915,False,
-lisinopril,angioedema,106915,True,
-lisinopril,angioedema,106915,True,
-dilaudid,hypotension,106945,False,
-narcotics,hypotensive,106945,False,
-pain medication,hypotension,106945,False,
-torasemide,sbp <100,106961,False,
-diuretic,hyponatraemia,106961,False,
-metoprolol,hypotension,106961,True,
-digoxin,hypotension,106961,False,
-diltiazem,hypotension,106961,True,
-metoprolol,hypotensive,106961,False,
-diltiazem,hypotensive,106961,False,
-cellcept,leukopenia,106967,False,
-lu,osteoporosis,106967,False,
-immunosuppression,hepatitis c,106967,False,
-antibiotics,drug level increased,106967,False,
-flagyl,leukopenia,106967,False,
-flagyl,leukopenia,106967,False,
-ciprofloxacin,leukopenia,106967,True,
-flagyl,leukopenia,106967,False,
-flagyl,leukopenia,106967,False,
-mycophenolate,leukopenia,106967,True,
-bactrim,leukopenia,106967,False,
-valcyte,leukopenia,106967,False,
-flagyl,leukopenia,106967,False,
-mmf,neutropenia,106967,False,
-steroid,myopathy,106993,False,
-steroid,dm,106993,False,
-alpha-blocker,hypotension,107128,False,
-heparin,thrombocytopenia,107128,True,
-anticoagulation,upper respiratory tract infection,107128,False,
-heparin,muscle spasms,107128,False,
-heparin,muscle spasms,107128,False,
-benzocaine,methaemoglobinaemia,107202,True,
-gd-dtpa,injection site bruising,107202,False,
-benzocaine,methaemoglobinaemia,107202,True,
-gd-dtpa,cramps of lower extremities,107202,False,
-gd-dtpa,cramps of lower extremities,107202,False,
-benzocaine,methaemoglobinaemia,107202,True,
-gd-dtpa,gingival bleeding,107202,False,
-imdur,hypotension,107421,False,
-anaesthesia,hypotension,107421,False,
-propofol,pancreatitis,107515,True,
-propofol,pancreatitis,107515,True,
-cefepime,rash,107515,True,
-vancomycin,rash,107515,False,
-cefepime,eosinophilia,107515,True,
-vancomycin,eosinophilia,107515,False,
-steroid,hyperglycaemia,107515,False,
-x,mental status changes,107902,False,
-chlorhexidine,dermatitis contact,108539,False,
-chlorhexidine,allergic contact dermatitis,108539,False,
-chlorhexidine,rash,108539,False,
-dilaudid,flushing,108539,False,
-dilaudid,diaphoresis,108539,False,
-nitroglycerin,blood and lymphatic system disorders,108539,True,
-x,asthma,108816,False,
-vinorelbine,neutropenia,108950,True,
-chemo,diarrhoea,108950,False,
-temodar,citrate toxicity,108950,False,
-chemo,leukopenia,108950,False,
-steroids,steroid psychosis,109397,False,
-steroids,leukocytosis,109397,False,
-steroids,hypertension,109397,False,
-cyclosporine,hypertension,109397,False,
-steroids,anxiety,109397,False,
-steroid,manic psychosis,109397,False,
-benzodiazepine,intoxication,109645,False,
-benzodiazepene,intoxication,109645,False,
-pain medication,constipation,109698,False,
-anticoagulation,chest pain,109724,False,
-coumadin,chest pain,109724,False,
-heparin,chest pain,109724,False,
-steroids,elevated mood,109724,False,
-narcotic,pneumonia aspiration,109724,False,
-heparin,thrombocytopenia,110135,True,
-heparin,pneumonia due to streptococcus group b,110135,False,
-contrast,esrd,110135,False,
-heparin,thrombocytopenia,110135,True,
-heparin,thrombocytopenia,110135,True,
-heparin,bronchitis,110135,False,
-acetate,food allergy,110135,False,
-5-asa,food allergy,110135,False,
-haldol,immune status,110162,False,
-haldol,lethargic,110162,False,
-lisinopril,angioedema,110162,True,
-polysporin,hypersensitivity,110162,False,
-lamictal,rash,110559,False,
-lamictal,rash,110559,False,
-lamictal,food allergy,110559,False,
-lamictal,rash,110559,False,
-vancomycin,dwarfism,110559,False,
-vancomycin,citrate toxicity,110559,False,
-clonazepam,sedation,110559,False,
-clonazepam,rr <12,110559,False,
-vancomycin,citrate toxicity,110559,False,
-vancomycin,kidney function abnormal,110559,False,
-vancomycin,citrate toxicity,110559,False,
-lamictal,food allergy,110559,False,
-lamotrigine,rash,110559,True,
-lamotrigine,citrate toxicity,110559,False,
-vancomycin,citrate toxicity,110559,False,
-lithium,endocrine disorder,110753,False,
-lithium,ckd,110753,False,
-sulfasalazine,reaction to drug excipients,110753,False,
-sulfasalazine,reaction to drug excipients,110753,False,
-anticoagulation,gingival bleeding,110891,False,
-gleevec,severe acute respiratory syndrome,110891,False,
-gleevec,cramping,110891,False,
-3630	contrast dye,drug reaction with eosinophilia and systemic symptoms,111160,False,
-zosyn,abdominal pain,111160,False,
-ciprofloxacin,abdominal pain,111160,True,
-potassium,hypoglycaemia,111160,False,
-lantus,hypoglycaemia,111160,True,
-steroid,delirium,111160,False,
-olanzapine,insomnia,111160,True,
-narcotic,constipated,111274,False,
-narcotic,withdrawal symptom,111274,False,
-contrast,nephropathy,111274,False,
-narcotic,ileus,111274,False,
-narcotics,ileus,111274,False,
-amlodipine,hypotension,111341,False,
-lisinopril,hypotension,111341,True,
-amlodipine,urine output,111341,False,
-lisinopril,urine output,111341,False,
-benadryl,dementia,112226,False,
-neurontin,dementia,112226,False,
-x,body temperature increased,112226,False,
-diltiazem,hypotension,112226,True,
-ceftriaxone,rash,112226,True,
-x,pain in extremity,112226,False,
-x,rash,112226,True,
-aztreonam,rash,112226,True,
-valium,immune status,112329,False,
-il-2,hypotension,112342,False,
-narcotics,sbo,112342,False,
-il-2,dwarfism,112342,False,
-il-2,injury,112342,False,
-il-2,swelling,112342,False,
-il-2,skin breakdown,112342,False,
-pressors,skin breakdown,112342,False,
-il-2,skin odour abnormal,112342,False,
-depakote,thrombocytopenia,112350,False,
-haldol,erection prolonged,112350,False,
-anesthesia,aspiration,112418,False,
-elavil,nicotinic effects,112445,False,
-elavil,confusional state,112445,False,
-caffeine,supraventricular tachycardia,112446,False,
-x,pain in jaw,112446,False,
-x,renal failure,112446,False,
-caffeine,gamma-glutamyltransferase increased,112446,False,
-bactrim,pre-renal ain,112942,False,
-codeine,immune status,113222,False,
-ativan,angioedema,113222,False,
-labetalol,head pressure,113222,False,
-lisinopril,angioedema,113222,True,
-dilantin,angioedema,113222,False,
-ativan,angioedema,113222,False,
-x,febrile neutropenia,113265,False,
-vancomycin,febrile neutropenia,113265,False,
-nafcillin,rash,113265,True,
-nafcillin,rash,113265,True,
-vancomycin,neutropenia,113265,False,
-furosemide,neutropenia,113265,False,
-vancomycin,neutropenia,113265,False,
-furosemide,neutropenia,113265,False,
-seroquel,neutropenia,113265,False,
-nafcillin,rash,113265,True,
-vancomyocin,white blood cell disorder,113265,False,
-x,decreased appetite,113265,False,
-vancomycin,decreased appetite,113265,False,
-x,neutropenia,113265,False,
-nafcillin,rash,113265,True,
-vancomycin,neutropenia,113265,False,
-cefepime,persistent foetal circulation,113265,False,
-vancocine,persistent foetal circulation,113265,False,
-vancomycin,leukopenia,113265,False,
-vancomycin,neutropenia,113265,False,
-seroquel,leukopenia,113265,False,
-x,26453	declining counts,113265,False,
-vancomycin,26453	declining counts,113265,False,
-hydralazine,hypotension,113333,True,
-metoprolol,hypotension,113333,True,
-chemo,anaemia,113333,False,
-digoxin,vt,113348,False,
-digoxin,vt,113348,False,
-digoxin,junctional tachycardia,113348,False,
-digoxin,vt,113348,False,
-digoxin,junctional tachycardia,113348,False,
-digoxin,non-sustained ventricular tachycardia,113348,False,
-flagyl,paraesthesia,113607,False,
-flagyl,neuropathy peripheral,113607,False,
-lisinopril,angioedema,113852,True,
-lisinopril,unspecified disorder of skin and subcutaneous tissue,113852,True,
-lisinopril,angioedema,113852,True,
-lisinopril,swelling,113852,False,
-piperacillin,eruption,113858,True,
-piperacillin,rash,113858,True,
-digoxin,citrate toxicity,113963,False,
-digoxin,citrate toxicity,113963,False,
-digoxin,bradycardia,113963,False,
-digoxin,electrocardiogram pr prolongation,113963,True,
-digoxin,immune status,113963,False,
-digoxin,citrate toxicity,113963,False,
-digoxin,citrate toxicity,113963,False,
-digoxin,citrate toxicity,113963,False,
-oxybutynin,abnormal dreams,113963,False,
-detrol,abnormal dreams,113963,False,
-digoxin,citrate toxicity,113963,False,
-amiodarone,bradycardia,114626,True,
-digoxin,bradycardia,114626,False,
-digoxin,bradycardia,114626,False,
-amiodarone,bradycardia,114626,True,
-digoxin,calcium low,114626,False,
-digoxin,bradycardia,114626,False,
-digoxin,citrate toxicity,114626,False,
-digoxin,bradycardia,114626,False,
-digoxin,citrate toxicity,114626,False,
-amiodarone,citrate toxicity,114626,False,
-digoxin,citrate toxicity,114626,False,
-depakote,eosinophilia,114901,False,
-divalproex,eosinophilia,114901,False,
-depakaote,fluid and electrolyte imbalance,114901,False,
-contrast dye,anaphylactoid reaction,115138,False,
-contrast dye,hives,115138,False,
-contrast dye,edema cerebral,115138,False,
-contrast dye,flushing,115138,False,
-contrast dye,acute anaphylaxis,115138,False,
-contrast dye,allergic skin reaction,115138,False,
-contrast,flushing,115138,False,
-contrast,edema cerebral,115138,False,
-contrast,hives,115138,False,
-zosyn,rash,115169,False,
-fentanyl,hypotensive,115169,True,
-versed,hypotensive,115169,False,
-propofol,hypotensive,115169,False,
-zosyn,rash,115169,False,
-zosyn,rash,115169,False,
-contrast,nephropathy,115391,False,
-levophed,hypotensive,115433,False,
-dobutamine,chest discomfort,115433,False,
-coumadin,thrombocytopenia,115433,False,
-steroids,leukocytosis,115433,False,
-vancomycin,atn,115466,False,
-vancomycin,renal failure,115466,False,
-prednisone,hematemesis x2,115737,False,
-aspirin,withdrawal bleed,115737,False,
-nsaid,withdrawal bleed,115737,False,
-nsaid,upper respiratory tract infection,115737,False,
-prednisone,upper respiratory tract infection,115737,False,
-nsaid,upper respiratory tract infection,115737,False,
-prednisone,upper respiratory tract infection,115737,False,
-nsaid,ugib,115737,False,
-ogen,leukocytosis,115737,False,
-prednisone,ulcer,115737,True,
-chop,ulcer,115737,False,
-zosyn,diarrhoea,115771,False,
-ativan,somnolence,115771,False,
-narcotics,abnormal dreams,116011,False,
-opioid medications,delirium,116011,False,
-penicillin,allergic contact dermatitis,116011,False,
-pain medications,immune status,116011,False,
-pain medications,delirious,116011,False,
-morphine,altered state of consciousness,116011,False,
-morphine,abnormal dreams,116011,True,
-morphine,delirious,116011,False,
-vicodin,delirious,116011,False,
-codeine,delirious,116011,False,
-amiodarone,pulmonary toxicity,116204,True,
-amiodarone,acute interstitial pneumonitis,116204,True,
-heparin,haemorrhage intracranial,116204,False,
-anticoagulation,pulmonary haemorrhage,116204,False,
-furosemide,hypotensive,116204,True,
-steroid,tumour lysis syndrome,116237,False,
-decadron,paranoia,116237,False,
-pressors,hypotension,116237,False,
-steroid,haemolysis,116237,False,
-decadron,tumour lysis syndrome,116237,False,
-decadron,elevated liver enzyme levels,116237,False,
-chemotherapy,counts dropped,116237,False,
-aldactone,elevated mood,116903,False,
-tetracycline,acute renal insufficiency,116903,False,
-diuresis,acute renal insufficiency,116903,False,
-codeine,multiple allergies,116903,False,
-codeine,gas,116903,False,
-x,acute renal insufficiency,116903,False,
-aldactone,acute renal insufficiency,116903,False,
-octreotide,hand and foot syndrome secondary to sickle cell anaemia,116903,False,
-midodrine,hand and foot syndrome secondary to sickle cell anaemia,116903,False,
-lactulose,diarrhoea,116903,True,
-acei,angioedema,117191,False,
-acetate,angioedema,117191,False,
-steroid,hypertension,117191,False,
-ace inhibitor,angioedema,117191,False,
-ace inhibitors,lip swelling,117191,False,
-nafcillin,numbness,117191,False,
-metoprolol,raynauds phenomenon,117191,True,
-metoprolol,beta 2 microglobulin increased,117191,False,
-metoprolol,dysphagia,117191,False,
-metoprolol,8781	gi upset,117191,False,
-x,aiha,118491,False,
-x,haemolytic anaemia,118491,False,
-steroids,infection,118491,False,
-x,autoimmune haemolytic anaemia,118491,False,
-octreotide,gamma-glutamyltransferase increased,118491,False,
-aldactone,hyponatraemia,118491,False,
-x,hypotension,118491,False,
-x,autoimmune haemolytic anaemia,118491,False,
-x,aiha,118491,False,
-x,autoimmune haemolytic anaemia,118491,False,
-acetaminophen,confused,118496,False,
-acetaminophen,somnolent,118496,False,
-opioids,immune status,118496,False,
-acetaminophen,immune status,118496,False,
-zithromax,renal failure,119906,False,
-zithromax,liver function test abnormal,119906,False,
-tylenol,body odor,119906,False,
-nsaids,pud,121116,False,
-nsaid,citrate toxicity,121116,False,
-nsaid,gastric ulcer,121116,False,
-nsaid,ulcer,121116,False,
-nsaids,upper respiratory tract infection,121116,False,
-actonel,elevated mood,121116,False,
-lipitor,transaminitis,121116,False,
-x,rash,121631,True,
-bb,bradycardia,121663,False,
-ccb,bradycardia,121663,False,
-diltiazem,bradycardia,121663,True,
-atenolol,bradycardia,121663,True,
-atenolol,hypotension,121663,True,
-diltiazem,hypotension,121663,True,
-bb,hypotension,121663,False,
-ccb,hypotension,121663,False,
-ccb,bradycardia,121663,False,
-bb,bradycardia,121663,False,
-albuterol,tachycardia,121861,False,
-steroid,osteoporosis,121861,False,
-albuterol,sinus tachycardia,121861,False,
-albuterol,tachycardia,121861,False,
-albuterol,tachycardia,121861,False,
-heparin,bronchitis,122090,False,
-heparin,thrombocytopenia,122365,True,
-heparin,thrombocytopenia,122365,True,
-heparin,thrombocytopenia,122365,True,
-anticoagulation,hepatic failure,122365,False,
-heparin,bronchitis,122365,False,
-chemo,diarrhoea,123204,False,
-ivfs,hypoxia,123204,False,
-chemotherapy,pancytopenia,123204,False,
-laxatives,dairrhea,123204,False,
-atenolol,bradycardia,123755,True,
-d51/2 ns,hyponatraemic,123807,False,
-nsaids,renal failure,123807,False,
-blood products,pulmonary oedema,123807,False,
-x,withdrawal bleed,123807,False,
-coumadin,tic,123807,False,
-coumadin,withdrawal bleed,123807,False,
-coumadin,major bleed,123807,False,
-morphine,sob,123807,False,
-blood thinners,blood amylase increased,124142,False,
-bactrim,acute anaphylaxis,124465,False,
-bactrim,hypotension,124465,False,
-bactrim,tachycardia,124465,False,
-bactrim,typhoid fever,124465,False,
-bactrim,rash,124465,False,
-bactrim,hypotension,124465,False,
-bactrim,tachycardia,124465,False,
-bactrim,typhoid fever,124465,False,
-bactrim,local reaction,124465,False,
-vancocine,red man syndrome,124465,True,
-bactrim,anaphylactoid reaction,124465,False,
-bactrim,skin disorder,124465,False,
-bactrim,acute anaphylaxis,124465,False,
-bactrim,hypotension,124465,False,
-antibiotics,rash,124465,False,
-bactrim,hypotensive,124465,False,
-bactrim,hyperkalaemia,125281,False,
-synercid,hyperkalaemia,125281,False,
-heparin,thrombocytopenia,126085,True,
-argatroban,bronchitis,126085,False,
-florinef,hypertension,127018,False,
-midodrine,hypertension,127018,True,
-risperidone,orthostatic hypotension,127018,True,
-acei,angioedema,127018,False,
-lisinopril,angioedema,127018,True,
-acei,angioedema,127018,False,
-midodrine,hypertensive,127018,False,
-florinef,hypertensive,127018,False,
-x,orthostatic hypotension,127018,False,
-lisinopril,orthostatic hypotension,127018,True,
-lisinopril,angioedema,127018,True,
-haldol,typhoid fever,129109,False,
-haldol,neuroleptic malignant syndrome,129109,False,
-labetalol,nausea,131345,True,
-versed,immune status,133235,False,
-fentanyl,immune status,133235,False,
-metformin,tic,135234,False,
-steroids,sugars are elevated,135234,False,
-metformin,lactic acidosis,135234,False,
-dexamethasone,leukocytosis,135234,True,
-ace inhibitor,cough,138089,False,
-antipsychotic medications,body odor,139178,False,
-choline,urine output,139178,False,
-choline,urinary retention,139178,False,
-psychiatric medications,thrombocytopenia,139178,False,
-fluconazole,thrombocytopenia,139178,True,
-ogen,urinary retention,139178,False,
-12072	medications which required intermittent catheterization,urinary retention,139178,False,
-narcotic,overdose,139825,False,
-warfarin,coagulopathy,139955,False,
-antibiotic,coagulopathy,139955,False,
-x,syncope,141447,False,
-nitroglycerin,syncope,141447,True,
-x,tic,141447,False,
-amiodarone,bradycardia,141447,True,
-diuretics,hypernatraemia,142444,False,
-oxycodone,constipation,142444,True,
-percocet,constipation,142444,False,
-vicodin,constipation,142444,False,
-hydrocodone,constipation,142444,True,
-dilaudid,constipation,142444,False,
-narcotic pain medications,constipation,142444,False,
-ofloxacin,diarrhoea,146543,True,
-clindamycin,diarrhoea,146543,True,
-ciprofloxacin,colitis,146543,True,
-ofloxacin,colitis,146543,True,
-antibiotic,diarrhoea,146543,False,
-haldol,dystonic reaction,146543,False,
-nsaid,atn,146876,False,
-ace-i,increased upper airway secretion,146944,False,
-ace inhibitors,angioedema,146944,False,
-captopril,angioedema,146944,True,
-captopril,swelling,146944,False,
-ace-i,food allergy,146944,False,
-ace-i,angioedema,146944,False,
-narcotics,hypercapnia,148266,False,
-narcotics,mental disorder,148266,False,
-morphine,somnolent,148266,False,
-ms contin,somnolent,148266,False,
-narcotics,hypoventilation,148266,False,
-propofol,hypotension,148266,True,
-iron,dark circles under eyes,149071,False,
-aspirin,withdrawal bleed,149071,False,
-chemo,oesophagitis,149071,False,
-aspirin,gas,149071,False,
-aspirin,ulcer,149071,True,
-narcotic,respiratory arrest,149239,False,
-diuretic,hyponatraemia,150030,False,
-hctz/triamtrene,hyponatraemia,150030,False,
-thiazide,hyponatraemia,150030,False,
-thiazide,severe acute respiratory syndrome,150030,False,
-benadryl,neurogenic bladder,150030,False,
-thiazide,hyponatraemia,150030,False,
-nsaid,withdrawal bleed,151483,False,
-nsaid,gas,151483,False,
-ibuprofen,stomach dilation procedure,151483,False,
-ibuprofen,ulcer,151483,True,
-coumadin,tic,152311,False,
-valproic acid,thrombocytopenia,152925,False,
-sedatives,delirium,154496,False,
-trileptal,hyponatraemia,156044,False,
-hctz,hyponatraemia,156044,False,
-trileptal,calcium low,156044,False,
-heparin,facial eccymoses,156336,False,
-heparin,erythema,156336,True,
-heparin,cellulitis,156336,False,
-ibuprofen,ulcer,156777,True,
-naproxen,ulcer,156777,True,
-lipitor,arthralgia,157103,False,
-diltiazem,atrioventricular block first degree,157103,True,
-aggrastat,epistaxis,157103,False,
-aggrastat,loose stools,157103,False,
-heparin,thrombocytopenia,157713,True,
-heparin,thrombocytopenia,157713,True,
-heparin,thrombocytopenia,157713,True,
-5-asa,abnormal withdrawal bleeding,160519,False,
-x,abnormal withdrawal bleeding,160519,False,
-coumadin,abnormal withdrawal bleeding,160519,False,
-x,ugib,160519,False,
-5-asa,gingival bleeding,160519,False,
-x,recurrent gi bleeds,160519,False,
-beta blocker,bradycardia,160519,False,
-sedation,bradycardia,160519,False,
-beta blocker,bradycardia,160519,False,
-beta blocker,bradycardia,160519,False,
-blood thinners,unspecified disorder of skin and subcutaneous tissue,160519,False,
-coumadin,gingival bleeding,160519,False,
-coumadin,recurrent gi bleeds,160519,False,
-x,gingival bleeding,160519,False,
-x,gingival bleeding,160519,False,
-x,rash recurrent,160519,False,
-aspirin,hives,163764,False,
-aspirin,vomiting,163764,True,
-aspirin,food allergy,163764,False,
-dopamine,metabolic acidosis,164726,False,
-vancomycin,periorbital oedema,166054,False,
-vancomycin,skin disorder,166054,False,
-vancomycin,cholesterol serum elevated,166054,False,
-vancomycin,eosinophilia,166054,False,
-ppi,gas,166237,False,
-14103	blood pressure medications,hypotensive,166237,False,
-845	htn meds,tension,166237,False,
-captopril,hypotensive,166237,True,
-13195	hypertension medications,unresponsive to stimuli,166237,False,
-13195	hypertension medications,pulse irregular,166237,False,
-dexamethasone,reaction to drug excipients,166237,False,
-ppi,elevated mood,166237,False,
-lithium,citrate toxicity,166237,False,
-namenda,unresponsive episodes,166237,False,
-namenda,hypertension,166237,False,
-namenda,serotonin syndrome,166237,False,
-wellbutrin,nausea,166237,False,
-wellbutrin,vomiting,166237,False,
-kaopectate,cramps of lower extremities,166237,False,
-kaopectate,alopecia,166237,False,
-chemotherapy,leukopenia,172206,False,
-chemotherapy,elevated liver enzyme levels,172206,False,
-8335	narcotic pain medicine,constipation,174339,False,
-metoprolol,bradycardia,180167,True,
-cardizem,bradycardia,180167,False,
-beta blocker,presyncope,180167,False,
-ccb,presyncope,180167,False,
-dofetilide,presyncope,180167,False,
-dofetilide,bradycardia,180167,True,
-ccb,bradycardia,180167,False,
-beta blocker,bradycardia,180167,False,
-dofetilide,sinus bradycardia,180167,False,
-metoprolol,sinus bradycardia,180167,False,
-cardizem,sinus bradycardia,180167,False,
-7396	narcotic pain medicine,constipation,181143,False,
-insulin,hypoglycaemia,181643,True,
-steroid,hyperglycaemia,181643,False,
-narcotic pain meds,constipation,183331,False,
-steroid,myopathy,183783,False,
-steroid,myopathy,183783,False,
-steroid,myopathy,183783,False,
-stavudine,neuropathy peripheral,185289,True,
-lu,hypoxia,185289,False,
-ceftriaxone,rash,185982,True,
-ceftazidime,rash,185982,True,
-x,drug fever,185982,False,
-antibiotics,rash,185982,False,
-narcotics,constipation,185982,False,
-azithromycin,head pressure,189637,False,
-azithromycin,allergic skin reaction,189637,False,
-insulin,hypoglycaemia,189637,True,
-insulin,hypoglycaemia,189637,True,
-azithromycin,hypotensive,189637,False,
-azithromycin,allergic skin reaction,189637,False,
-939	cholesterol lowering agents,rhabdomyolysis,191061,False,
-oxycodone,sedation,193079,True,
-12114	narcotic pain medicine,constipation,193079,False,
-hctz,hyponatraemia,193079,False,
-penicillin,food allergy,196911,False,
-bactrim,febrile bone marrow aplasia,196911,False,
-linezolid,febrile bone marrow aplasia,196911,False,
-meropenem,a-fib,196911,False,
-vincristine,neuropathy peripheral,196911,True,
-x,cystitis haemorrhagic,196911,False,
-vancocine,lips swelled,198207,False,
-levaquin,lips swelled,198207,False,
-vancocine,hives,198207,False,
-levaquin,hives,198207,False,
-vancocine,red man syndrome,198207,True,
+drug_norm,ade_norm,source_file,is_consistent,sider_match_found
+dilantin,eye discharge,100130,False,False
+dilantin,paraesthesia oral,100130,False,False
+thiosulfate,paraesthesia oral,100130,False,True
+dilantin,rash,100130,False,False
+thiosulfate,rash,100130,False,True
+dilantin,fevers,100130,False,False
+dilantin,muscular weakness,100130,False,False
+dilantin,diarrhoea,100130,False,False
+chemo,renal failure,100509,False,False
+carboplatin,renal failure,100509,False,True
+chemotherapy,syndrome sicca,100509,False,False
+metoprolol,cns toxicity,100509,False,True
+chemotherapy,leukopenia,100509,False,False
+chemotherapy,thrombocytopenia,100509,False,False
+platelets,thrombocytopenia,100549,False,False
+platelets,thrombocytopenia,100549,False,False
+chemotherapy,thrombocytopenia,100549,False,False
+platelets,transfusion reaction,100549,False,False
+platelets,transfusion reaction,100549,False,False
+platelets,faecal occult blood positive,100549,False,False
+platelets,transfusion reaction,100549,False,False
+platelets,transfusion reaction,100549,False,False
+paralytic,attention concentration difficulty,100759,False,False
+paralytic,left ventricular ejection fraction decreased,100759,False,False
+paralytics,apnoea,100759,False,False
+paralytics,apneic,100759,False,False
+betaxolol,neuropathy,102068,True,True
+lantus,hypoglycaemia,102068,True,True
+methadone,abnormal dreams,102357,False,True
+methadone,respiratory rate decreased,102357,False,True
+methadone,overdose,102357,False,True
+methadone,restless legs syndrome,102357,False,True
+methadone,overdose,102357,False,True
+nsaid,withdrawal bleed,102903,False,False
+nsaid,withdrawal bleed,102903,False,False
+antibiotics,diarrhoea,102913,False,False
+prednisone,11770	serosanguinous oozing,102913,False,True
+cyclosporin,nephrotoxicity,103430,False,False
+lactulose,diarrhoea,103430,True,True
+cyclosporin,renal failure,103430,False,False
+nimodipine,pain in jaw,103480,False,True
+cefepime,rash,103761,True,True
+prbc,fluid overload,103761,False,False
+platelets,fluid overload,103761,False,False
+bactrim,neutropenia,103761,False,False
+bactrim,neutropenia,103761,False,False
+gemcitabine,neutropenia,103761,True,True
+cyclosporine,adrenal insufficiency,103761,False,False
+cyclosporine,adrenal insufficiency,103761,False,False
+cyclosporine,chronic renal insufficiency,103761,False,False
+gemcitabine,neutropenia,103761,True,True
+gemcitabine,neutropenia,103761,True,True
+flagyl,nausea,103761,False,False
+diruetic,dehydration,103903,False,False
+diruetic,hypovolaemia,103903,False,False
+aspirin,gas,103928,False,True
+morphine,pruritus,103928,True,True
+acei,heat intolerance,103928,False,False
+antibiotics,rash,103930,False,False
+valproate,behavioral issue,104021,False,True
+ativan,somnolence,104021,False,False
+ativan,apenea,104021,False,False
+depakote,delirium,104021,False,False
+valproate,delirium,104021,False,True
+steroids,hyperglycaemia,104168,False,False
+steroid,eye irritation,104168,False,False
+motrin,atn,104271,False,False
+ativan,excessively somnolent,104271,False,False
+nsaid,dwarfism,104271,False,False
+nsaids,atn,104271,False,False
+x,rash,104390,True,True
+x,hypotension,104390,False,True
+cephalosporin,febrile neutropenia,104390,False,False
+cephalosporin,tachycardia,104390,False,False
+cephalosporin,hypotensive,104390,False,False
+cephalosporin,papule,104390,False,False
+antibiotics,rash,104390,False,False
+antibiotics,rash,104390,False,False
+nafcillin,abdominal pain,104446,True,True
+valsartan,hyperkalaemia,104446,True,True
+fluoxetine,hypoglycaemia,104549,True,True
+fluoxetine,abdominal pain lower,104549,False,True
+fluoxetine,hypoglycaemia,104549,True,True
+narcotics,delirium,104665,False,False
+lorazepam,respiratory failure,104757,True,True
+seroquel,somnolence,104757,False,False
+haldol,drowsiness,104757,False,False
+trazodone,drowsiness,104757,True,True
+haldol,lip dry,104757,False,False
+trazodone,lip dry,104757,False,True
+trazodone,tardive dyskinesia,104757,True,True
+haldol,tardive dyskinesia,104757,False,False
+ativan,unresponsive to stimuli,104757,False,False
+ativan,desaturation,104757,False,False
+detrol,mental status changes,104788,False,False
+detrol,nicotinic effects,104788,False,False
+versed,respiratory failure,104788,False,False
+versed,respiratory failure,104788,False,False
+antibiotics,diarrhoea,104929,False,False
+morphine,muscle twitching,104929,True,True
+morphine,muscle twitching,104929,True,True
+nsaid,effusion,104929,False,False
+nsaid,renal failure,104929,False,False
+avastin,thrombocytopenia,104948,False,False
+timador,thrombocytopenia,104948,False,False
+timador,thrombocytopenia,104948,False,False
+steroid,immunocompromised,104948,False,False
+levophed,drug reaction with eosinophilia and systemic symptoms,104948,False,False
+amiodarone,bradycardia,104948,True,True
+ffp,back pain,105088,False,False
+ffps,back pain,105088,False,False
+narcotics,hypercarbic,105383,False,False
+methotrexate,pancytopenia,105444,True,True
+methotrexate,pancytopenia,105444,True,True
+morphine,hypoxia,105444,True,True
+methotrexate,pancytopenia,105444,True,True
+folate,pancytopenia,105444,False,True
+digoxin,nausea,105446,True,True
+lipitor,elevated mood,105446,False,False
+digoxin,retching,105446,False,True
+haldol,rage,105537,False,False
+seroquel,rage,105537,False,False
+prednisone,osteoporosis,105537,True,True
+x,hepatitis c,105537,False,True
+antihypertensive medications,hypotension,105579,False,False
+bp medication,hypotension,105579,False,False
+blood pressure medications,hypotension,105579,False,False
+diuretic,hypotension,105585,False,False
+diuretic,hypovolaemia,105585,False,False
+diuretic,hypovolaemia,105585,False,False
+penicillin,rash,105885,True,True
+irinotecan,diahrrea,106015,False,True
+panitumab,diahrrea,106015,False,False
+chemotherapy,diahrrea,106015,False,False
+chemotherapy,diahrrea,106015,False,False
+chemo,antibiotic-associated diarrhea,106015,False,False
+irinotecan,toxicity to various agents,106015,True,True
+carafate,toxicity to various agents,106015,False,False
+irinotecan,diarrhoea,106015,True,True
+irinotecan,toxicity to various agents,106015,True,True
+irinotecan,proctitis,106015,False,True
+chemotherapy,diarrhoea,106015,False,False
+chemotherapy,pain in jaw,106015,False,False
+oxaliplatin,neuropathy,106015,True,True
+phenytoin,drug fever,106076,False,True
+benzodiazepine,delirium,106076,False,False
+betaxolol,nausea,106334,True,True
+betaxolol,vomiting,106334,True,True
+betaxolol,dehydration,106334,False,True
+betaxolol,dizziness,106334,True,True
+benzodiazepines,immune status,106334,False,False
+ativan,accidental exposure to product,106334,False,False
+x,pinpoint echymoses,106334,False,True
+benzodiazepines,oversedation,106334,False,False
+chemo,vomiting,106334,False,False
+x,brain neoplasm,106334,False,True
+chemo,nausea,106334,False,False
+heparin,bronchitis,106369,False,True
+heparin,thrombocytopenia,106369,True,True
+x,dehydrated,106588,False,True
+benzos,respiratory failure,106588,False,False
+antipsychotics,respiratory failure,106588,False,False
+benzos,somnolent,106588,False,False
+antipsychotics,somnolent,106588,False,False
+x,hypernatraemia,106588,False,True
+x,hyponatraemia,106588,False,True
+lisinopril,tongue oedema,106915,False,True
+diphenhydramine,drowsiness,106915,True,True
+lisinopril,swelling,106915,False,True
+lisinopril,angioedema,106915,True,True
+lisinopril,angioedema,106915,True,True
+dilaudid,hypotension,106945,False,False
+narcotics,hypotensive,106945,False,False
+pain medication,hypotension,106945,False,False
+torasemide,sbp <100,106961,False,True
+diuretic,hyponatraemia,106961,False,False
+metoprolol,hypotension,106961,True,True
+digoxin,hypotension,106961,False,True
+diltiazem,hypotension,106961,True,True
+metoprolol,hypotensive,106961,False,True
+diltiazem,hypotensive,106961,False,True
+cellcept,leukopenia,106967,False,False
+lu,osteoporosis,106967,False,True
+immunosuppression,hepatitis c,106967,False,False
+antibiotics,drug level increased,106967,False,False
+flagyl,leukopenia,106967,False,False
+flagyl,leukopenia,106967,False,False
+ciprofloxacin,leukopenia,106967,True,True
+flagyl,leukopenia,106967,False,False
+flagyl,leukopenia,106967,False,False
+mycophenolate,leukopenia,106967,True,True
+bactrim,leukopenia,106967,False,False
+valcyte,leukopenia,106967,False,False
+flagyl,leukopenia,106967,False,False
+mmf,neutropenia,106967,False,False
+steroid,myopathy,106993,False,False
+steroid,dm,106993,False,False
+alpha-blocker,hypotension,107128,False,False
+heparin,thrombocytopenia,107128,True,True
+anticoagulation,upper respiratory tract infection,107128,False,False
+heparin,muscle spasms,107128,False,True
+heparin,muscle spasms,107128,False,True
+benzocaine,methaemoglobinaemia,107202,True,True
+gd-dtpa,injection site bruising,107202,False,True
+benzocaine,methaemoglobinaemia,107202,True,True
+gd-dtpa,cramps of lower extremities,107202,False,True
+gd-dtpa,cramps of lower extremities,107202,False,True
+benzocaine,methaemoglobinaemia,107202,True,True
+gd-dtpa,gingival bleeding,107202,False,True
+imdur,hypotension,107421,False,False
+anaesthesia,hypotension,107421,False,False
+propofol,pancreatitis,107515,True,True
+propofol,pancreatitis,107515,True,True
+cefepime,rash,107515,True,True
+vancomycin,rash,107515,False,False
+cefepime,eosinophilia,107515,True,True
+vancomycin,eosinophilia,107515,False,False
+steroid,hyperglycaemia,107515,False,False
+x,mental status changes,107902,False,True
+chlorhexidine,dermatitis contact,108539,False,True
+chlorhexidine,allergic contact dermatitis,108539,False,True
+chlorhexidine,rash,108539,False,True
+dilaudid,flushing,108539,False,False
+dilaudid,diaphoresis,108539,False,False
+nitroglycerin,blood and lymphatic system disorders,108539,True,True
+x,asthma,108816,False,True
+vinorelbine,neutropenia,108950,True,True
+chemo,diarrhoea,108950,False,False
+temodar,citrate toxicity,108950,False,False
+chemo,leukopenia,108950,False,False
+steroids,steroid psychosis,109397,False,False
+steroids,leukocytosis,109397,False,False
+steroids,hypertension,109397,False,False
+cyclosporine,hypertension,109397,False,False
+steroids,anxiety,109397,False,False
+steroid,manic psychosis,109397,False,False
+benzodiazepine,intoxication,109645,False,False
+benzodiazepene,intoxication,109645,False,False
+pain medication,constipation,109698,False,False
+anticoagulation,chest pain,109724,False,False
+coumadin,chest pain,109724,False,False
+heparin,chest pain,109724,False,True
+steroids,elevated mood,109724,False,False
+narcotic,pneumonia aspiration,109724,False,False
+heparin,thrombocytopenia,110135,True,True
+heparin,pneumonia due to streptococcus group b,110135,False,True
+contrast,esrd,110135,False,False
+heparin,thrombocytopenia,110135,True,True
+heparin,thrombocytopenia,110135,True,True
+heparin,bronchitis,110135,False,True
+acetate,food allergy,110135,False,True
+5-asa,food allergy,110135,False,True
+haldol,immune status,110162,False,False
+haldol,lethargic,110162,False,False
+lisinopril,angioedema,110162,True,True
+polysporin,hypersensitivity,110162,False,False
+lamictal,rash,110559,False,False
+lamictal,rash,110559,False,False
+lamictal,food allergy,110559,False,False
+lamictal,rash,110559,False,False
+vancomycin,dwarfism,110559,False,False
+vancomycin,citrate toxicity,110559,False,False
+clonazepam,sedation,110559,False,True
+clonazepam,rr <12,110559,False,True
+vancomycin,citrate toxicity,110559,False,False
+vancomycin,kidney function abnormal,110559,False,False
+vancomycin,citrate toxicity,110559,False,False
+lamictal,food allergy,110559,False,False
+lamotrigine,rash,110559,True,True
+lamotrigine,citrate toxicity,110559,False,True
+vancomycin,citrate toxicity,110559,False,False
+lithium,endocrine disorder,110753,False,True
+lithium,ckd,110753,False,True
+sulfasalazine,reaction to drug excipients,110753,False,True
+sulfasalazine,reaction to drug excipients,110753,False,True
+anticoagulation,gingival bleeding,110891,False,False
+gleevec,severe acute respiratory syndrome,110891,False,False
+gleevec,cramping,110891,False,False
+3630	contrast dye,drug reaction with eosinophilia and systemic symptoms,111160,False,False
+zosyn,abdominal pain,111160,False,False
+ciprofloxacin,abdominal pain,111160,True,True
+potassium,hypoglycaemia,111160,False,True
+lantus,hypoglycaemia,111160,True,True
+steroid,delirium,111160,False,False
+olanzapine,insomnia,111160,True,True
+narcotic,constipated,111274,False,False
+narcotic,withdrawal symptom,111274,False,False
+contrast,nephropathy,111274,False,False
+narcotic,ileus,111274,False,False
+narcotics,ileus,111274,False,False
+amlodipine,hypotension,111341,False,True
+lisinopril,hypotension,111341,True,True
+amlodipine,urine output,111341,False,True
+lisinopril,urine output,111341,False,True
+benadryl,dementia,112226,False,False
+neurontin,dementia,112226,False,False
+x,body temperature increased,112226,False,True
+diltiazem,hypotension,112226,True,True
+ceftriaxone,rash,112226,True,True
+x,pain in extremity,112226,False,True
+x,rash,112226,True,True
+aztreonam,rash,112226,True,True
+valium,immune status,112329,False,False
+il-2,hypotension,112342,False,False
+narcotics,sbo,112342,False,False
+il-2,dwarfism,112342,False,False
+il-2,injury,112342,False,False
+il-2,swelling,112342,False,False
+il-2,skin breakdown,112342,False,False
+pressors,skin breakdown,112342,False,False
+il-2,skin odour abnormal,112342,False,False
+depakote,thrombocytopenia,112350,False,False
+haldol,erection prolonged,112350,False,False
+anesthesia,aspiration,112418,False,False
+elavil,nicotinic effects,112445,False,False
+elavil,confusional state,112445,False,False
+caffeine,supraventricular tachycardia,112446,False,True
+x,pain in jaw,112446,False,True
+x,renal failure,112446,False,True
+caffeine,gamma-glutamyltransferase increased,112446,False,True
+bactrim,pre-renal ain,112942,False,False
+codeine,immune status,113222,False,True
+ativan,angioedema,113222,False,False
+labetalol,head pressure,113222,False,True
+lisinopril,angioedema,113222,True,True
+dilantin,angioedema,113222,False,False
+ativan,angioedema,113222,False,False
+x,febrile neutropenia,113265,False,True
+vancomycin,febrile neutropenia,113265,False,False
+nafcillin,rash,113265,True,True
+nafcillin,rash,113265,True,True
+vancomycin,neutropenia,113265,False,False
+furosemide,neutropenia,113265,False,True
+vancomycin,neutropenia,113265,False,False
+furosemide,neutropenia,113265,False,True
+seroquel,neutropenia,113265,False,False
+nafcillin,rash,113265,True,True
+vancomyocin,white blood cell disorder,113265,False,False
+x,decreased appetite,113265,False,True
+vancomycin,decreased appetite,113265,False,False
+x,neutropenia,113265,False,True
+nafcillin,rash,113265,True,True
+vancomycin,neutropenia,113265,False,False
+cefepime,persistent foetal circulation,113265,False,True
+vancocine,persistent foetal circulation,113265,False,True
+vancomycin,leukopenia,113265,False,False
+vancomycin,neutropenia,113265,False,False
+seroquel,leukopenia,113265,False,False
+x,26453	declining counts,113265,False,True
+vancomycin,26453	declining counts,113265,False,False
+hydralazine,hypotension,113333,True,True
+metoprolol,hypotension,113333,True,True
+chemo,anaemia,113333,False,False
+digoxin,vt,113348,False,True
+digoxin,vt,113348,False,True
+digoxin,junctional tachycardia,113348,False,True
+digoxin,vt,113348,False,True
+digoxin,junctional tachycardia,113348,False,True
+digoxin,non-sustained ventricular tachycardia,113348,False,True
+flagyl,paraesthesia,113607,False,False
+flagyl,neuropathy peripheral,113607,False,False
+lisinopril,angioedema,113852,True,True
+lisinopril,unspecified disorder of skin and subcutaneous tissue,113852,True,True
+lisinopril,angioedema,113852,True,True
+lisinopril,swelling,113852,False,True
+piperacillin,eruption,113858,True,True
+piperacillin,rash,113858,True,True
+digoxin,citrate toxicity,113963,False,True
+digoxin,citrate toxicity,113963,False,True
+digoxin,bradycardia,113963,False,True
+digoxin,electrocardiogram pr prolongation,113963,True,True
+digoxin,immune status,113963,False,True
+digoxin,citrate toxicity,113963,False,True
+digoxin,citrate toxicity,113963,False,True
+digoxin,citrate toxicity,113963,False,True
+oxybutynin,abnormal dreams,113963,False,True
+detrol,abnormal dreams,113963,False,False
+digoxin,citrate toxicity,113963,False,True
+amiodarone,bradycardia,114626,True,True
+digoxin,bradycardia,114626,False,True
+digoxin,bradycardia,114626,False,True
+amiodarone,bradycardia,114626,True,True
+digoxin,calcium low,114626,False,True
+digoxin,bradycardia,114626,False,True
+digoxin,citrate toxicity,114626,False,True
+digoxin,bradycardia,114626,False,True
+digoxin,citrate toxicity,114626,False,True
+amiodarone,citrate toxicity,114626,False,True
+digoxin,citrate toxicity,114626,False,True
+depakote,eosinophilia,114901,False,False
+divalproex,eosinophilia,114901,False,False
+depakaote,fluid and electrolyte imbalance,114901,False,False
+contrast dye,anaphylactoid reaction,115138,False,False
+contrast dye,hives,115138,False,False
+contrast dye,edema cerebral,115138,False,False
+contrast dye,flushing,115138,False,False
+contrast dye,acute anaphylaxis,115138,False,False
+contrast dye,allergic skin reaction,115138,False,False
+contrast,flushing,115138,False,False
+contrast,edema cerebral,115138,False,False
+contrast,hives,115138,False,False
+zosyn,rash,115169,False,False
+fentanyl,hypotensive,115169,True,True
+versed,hypotensive,115169,False,False
+propofol,hypotensive,115169,False,True
+zosyn,rash,115169,False,False
+zosyn,rash,115169,False,False
+contrast,nephropathy,115391,False,False
+levophed,hypotensive,115433,False,False
+dobutamine,chest discomfort,115433,False,True
+coumadin,thrombocytopenia,115433,False,False
+steroids,leukocytosis,115433,False,False
+vancomycin,atn,115466,False,False
+vancomycin,renal failure,115466,False,False
+prednisone,hematemesis x2,115737,False,True
+aspirin,withdrawal bleed,115737,False,True
+nsaid,withdrawal bleed,115737,False,False
+nsaid,upper respiratory tract infection,115737,False,False
+prednisone,upper respiratory tract infection,115737,False,True
+nsaid,upper respiratory tract infection,115737,False,False
+prednisone,upper respiratory tract infection,115737,False,True
+nsaid,ugib,115737,False,False
+ogen,leukocytosis,115737,False,True
+prednisone,ulcer,115737,True,True
+chop,ulcer,115737,False,False
+zosyn,diarrhoea,115771,False,False
+ativan,somnolence,115771,False,False
+narcotics,abnormal dreams,116011,False,False
+opioid medications,delirium,116011,False,False
+penicillin,allergic contact dermatitis,116011,False,True
+pain medications,immune status,116011,False,False
+pain medications,delirious,116011,False,False
+morphine,altered state of consciousness,116011,False,True
+morphine,abnormal dreams,116011,True,True
+morphine,delirious,116011,False,True
+vicodin,delirious,116011,False,False
+codeine,delirious,116011,False,True
+amiodarone,pulmonary toxicity,116204,True,True
+amiodarone,acute interstitial pneumonitis,116204,True,True
+heparin,haemorrhage intracranial,116204,False,True
+anticoagulation,pulmonary haemorrhage,116204,False,False
+furosemide,hypotensive,116204,True,True
+steroid,tumour lysis syndrome,116237,False,False
+decadron,paranoia,116237,False,False
+pressors,hypotension,116237,False,False
+steroid,haemolysis,116237,False,False
+decadron,tumour lysis syndrome,116237,False,False
+decadron,elevated liver enzyme levels,116237,False,False
+chemotherapy,counts dropped,116237,False,False
+aldactone,elevated mood,116903,False,False
+tetracycline,acute renal insufficiency,116903,False,True
+diuresis,acute renal insufficiency,116903,False,False
+codeine,multiple allergies,116903,False,True
+codeine,gas,116903,False,True
+x,acute renal insufficiency,116903,False,True
+aldactone,acute renal insufficiency,116903,False,False
+octreotide,hand and foot syndrome secondary to sickle cell anaemia,116903,False,True
+midodrine,hand and foot syndrome secondary to sickle cell anaemia,116903,False,True
+lactulose,diarrhoea,116903,True,True
+acei,angioedema,117191,False,False
+acetate,angioedema,117191,False,True
+steroid,hypertension,117191,False,False
+ace inhibitor,angioedema,117191,False,False
+ace inhibitors,lip swelling,117191,False,False
+nafcillin,numbness,117191,False,True
+metoprolol,raynauds phenomenon,117191,True,True
+metoprolol,beta 2 microglobulin increased,117191,False,True
+metoprolol,dysphagia,117191,False,True
+metoprolol,8781	gi upset,117191,False,True
+x,aiha,118491,False,True
+x,haemolytic anaemia,118491,False,True
+steroids,infection,118491,False,False
+x,autoimmune haemolytic anaemia,118491,False,True
+octreotide,gamma-glutamyltransferase increased,118491,False,True
+aldactone,hyponatraemia,118491,False,False
+x,hypotension,118491,False,True
+x,autoimmune haemolytic anaemia,118491,False,True
+x,aiha,118491,False,True
+x,autoimmune haemolytic anaemia,118491,False,True
+acetaminophen,confused,118496,False,True
+acetaminophen,somnolent,118496,False,True
+opioids,immune status,118496,False,False
+acetaminophen,immune status,118496,False,True
+zithromax,renal failure,119906,False,False
+zithromax,liver function test abnormal,119906,False,False
+tylenol,body odor,119906,False,False
+nsaids,pud,121116,False,False
+nsaid,citrate toxicity,121116,False,False
+nsaid,gastric ulcer,121116,False,False
+nsaid,ulcer,121116,False,False
+nsaids,upper respiratory tract infection,121116,False,False
+actonel,elevated mood,121116,False,False
+lipitor,transaminitis,121116,False,False
+x,rash,121631,True,True
+bb,bradycardia,121663,False,False
+ccb,bradycardia,121663,False,False
+diltiazem,bradycardia,121663,True,True
+atenolol,bradycardia,121663,True,True
+atenolol,hypotension,121663,True,True
+diltiazem,hypotension,121663,True,True
+bb,hypotension,121663,False,False
+ccb,hypotension,121663,False,False
+ccb,bradycardia,121663,False,False
+bb,bradycardia,121663,False,False
+albuterol,tachycardia,121861,False,False
+steroid,osteoporosis,121861,False,False
+albuterol,sinus tachycardia,121861,False,False
+albuterol,tachycardia,121861,False,False
+albuterol,tachycardia,121861,False,False
+heparin,bronchitis,122090,False,True
+heparin,thrombocytopenia,122365,True,True
+heparin,thrombocytopenia,122365,True,True
+heparin,thrombocytopenia,122365,True,True
+anticoagulation,hepatic failure,122365,False,False
+heparin,bronchitis,122365,False,True
+chemo,diarrhoea,123204,False,False
+ivfs,hypoxia,123204,False,False
+chemotherapy,pancytopenia,123204,False,False
+laxatives,dairrhea,123204,False,False
+atenolol,bradycardia,123755,True,True
+d51/2 ns,hyponatraemic,123807,False,False
+nsaids,renal failure,123807,False,False
+blood products,pulmonary oedema,123807,False,False
+x,withdrawal bleed,123807,False,True
+coumadin,tic,123807,False,False
+coumadin,withdrawal bleed,123807,False,False
+coumadin,major bleed,123807,False,False
+morphine,sob,123807,False,True
+blood thinners,blood amylase increased,124142,False,False
+bactrim,acute anaphylaxis,124465,False,False
+bactrim,hypotension,124465,False,False
+bactrim,tachycardia,124465,False,False
+bactrim,typhoid fever,124465,False,False
+bactrim,rash,124465,False,False
+bactrim,hypotension,124465,False,False
+bactrim,tachycardia,124465,False,False
+bactrim,typhoid fever,124465,False,False
+bactrim,local reaction,124465,False,False
+vancocine,red man syndrome,124465,True,True
+bactrim,anaphylactoid reaction,124465,False,False
+bactrim,skin disorder,124465,False,False
+bactrim,acute anaphylaxis,124465,False,False
+bactrim,hypotension,124465,False,False
+antibiotics,rash,124465,False,False
+bactrim,hypotensive,124465,False,False
+bactrim,hyperkalaemia,125281,False,False
+synercid,hyperkalaemia,125281,False,False
+heparin,thrombocytopenia,126085,True,True
+argatroban,bronchitis,126085,False,True
+florinef,hypertension,127018,False,False
+midodrine,hypertension,127018,True,True
+risperidone,orthostatic hypotension,127018,True,True
+acei,angioedema,127018,False,False
+lisinopril,angioedema,127018,True,True
+acei,angioedema,127018,False,False
+midodrine,hypertensive,127018,False,True
+florinef,hypertensive,127018,False,False
+x,orthostatic hypotension,127018,False,True
+lisinopril,orthostatic hypotension,127018,True,True
+lisinopril,angioedema,127018,True,True
+haldol,typhoid fever,129109,False,False
+haldol,neuroleptic malignant syndrome,129109,False,False
+labetalol,nausea,131345,True,True
+versed,immune status,133235,False,False
+fentanyl,immune status,133235,False,True
+metformin,tic,135234,False,True
+steroids,sugars are elevated,135234,False,False
+metformin,lactic acidosis,135234,False,True
+dexamethasone,leukocytosis,135234,True,True
+ace inhibitor,cough,138089,False,False
+antipsychotic medications,body odor,139178,False,False
+choline,urine output,139178,False,True
+choline,urinary retention,139178,False,True
+psychiatric medications,thrombocytopenia,139178,False,False
+fluconazole,thrombocytopenia,139178,True,True
+ogen,urinary retention,139178,False,True
+12072	medications which required intermittent catheterization,urinary retention,139178,False,False
+narcotic,overdose,139825,False,False
+warfarin,coagulopathy,139955,False,True
+antibiotic,coagulopathy,139955,False,False
+x,syncope,141447,False,True
+nitroglycerin,syncope,141447,True,True
+x,tic,141447,False,True
+amiodarone,bradycardia,141447,True,True
+diuretics,hypernatraemia,142444,False,False
+oxycodone,constipation,142444,True,True
+percocet,constipation,142444,False,False
+vicodin,constipation,142444,False,False
+hydrocodone,constipation,142444,True,True
+dilaudid,constipation,142444,False,False
+narcotic pain medications,constipation,142444,False,False
+ofloxacin,diarrhoea,146543,True,True
+clindamycin,diarrhoea,146543,True,True
+ciprofloxacin,colitis,146543,True,True
+ofloxacin,colitis,146543,True,True
+antibiotic,diarrhoea,146543,False,False
+haldol,dystonic reaction,146543,False,False
+nsaid,atn,146876,False,False
+ace-i,increased upper airway secretion,146944,False,False
+ace inhibitors,angioedema,146944,False,False
+captopril,angioedema,146944,True,True
+captopril,swelling,146944,False,True
+ace-i,food allergy,146944,False,False
+ace-i,angioedema,146944,False,False
+narcotics,hypercapnia,148266,False,False
+narcotics,mental disorder,148266,False,False
+morphine,somnolent,148266,False,True
+ms contin,somnolent,148266,False,False
+narcotics,hypoventilation,148266,False,False
+propofol,hypotension,148266,True,True
+iron,dark circles under eyes,149071,False,True
+aspirin,withdrawal bleed,149071,False,True
+chemo,oesophagitis,149071,False,False
+aspirin,gas,149071,False,True
+aspirin,ulcer,149071,True,True
+narcotic,respiratory arrest,149239,False,False
+diuretic,hyponatraemia,150030,False,False
+hctz/triamtrene,hyponatraemia,150030,False,False
+thiazide,hyponatraemia,150030,False,True
+thiazide,severe acute respiratory syndrome,150030,False,True
+benadryl,neurogenic bladder,150030,False,False
+thiazide,hyponatraemia,150030,False,True
+nsaid,withdrawal bleed,151483,False,False
+nsaid,gas,151483,False,False
+ibuprofen,stomach dilation procedure,151483,False,True
+ibuprofen,ulcer,151483,True,True
+coumadin,tic,152311,False,False
+valproic acid,thrombocytopenia,152925,False,False
+sedatives,delirium,154496,False,False
+trileptal,hyponatraemia,156044,False,False
+hctz,hyponatraemia,156044,False,False
+trileptal,calcium low,156044,False,False
+heparin,facial eccymoses,156336,False,True
+heparin,erythema,156336,True,True
+heparin,cellulitis,156336,False,True
+ibuprofen,ulcer,156777,True,True
+naproxen,ulcer,156777,True,True
+lipitor,arthralgia,157103,False,False
+diltiazem,atrioventricular block first degree,157103,True,True
+aggrastat,epistaxis,157103,False,False
+aggrastat,loose stools,157103,False,False
+heparin,thrombocytopenia,157713,True,True
+heparin,thrombocytopenia,157713,True,True
+heparin,thrombocytopenia,157713,True,True
+5-asa,abnormal withdrawal bleeding,160519,False,True
+x,abnormal withdrawal bleeding,160519,False,True
+coumadin,abnormal withdrawal bleeding,160519,False,False
+x,ugib,160519,False,True
+5-asa,gingival bleeding,160519,False,True
+x,recurrent gi bleeds,160519,False,True
+beta blocker,bradycardia,160519,False,False
+sedation,bradycardia,160519,False,False
+beta blocker,bradycardia,160519,False,False
+beta blocker,bradycardia,160519,False,False
+blood thinners,unspecified disorder of skin and subcutaneous tissue,160519,False,False
+coumadin,gingival bleeding,160519,False,False
+coumadin,recurrent gi bleeds,160519,False,False
+x,gingival bleeding,160519,False,True
+x,gingival bleeding,160519,False,True
+x,rash recurrent,160519,False,True
+aspirin,hives,163764,False,True
+aspirin,vomiting,163764,True,True
+aspirin,food allergy,163764,False,True
+dopamine,metabolic acidosis,164726,False,True
+vancomycin,periorbital oedema,166054,False,False
+vancomycin,skin disorder,166054,False,False
+vancomycin,cholesterol serum elevated,166054,False,False
+vancomycin,eosinophilia,166054,False,False
+ppi,gas,166237,False,False
+14103	blood pressure medications,hypotensive,166237,False,False
+845	htn meds,tension,166237,False,False
+captopril,hypotensive,166237,True,True
+13195	hypertension medications,unresponsive to stimuli,166237,False,False
+13195	hypertension medications,pulse irregular,166237,False,False
+dexamethasone,reaction to drug excipients,166237,False,True
+ppi,elevated mood,166237,False,False
+lithium,citrate toxicity,166237,False,True
+namenda,unresponsive episodes,166237,False,False
+namenda,hypertension,166237,False,False
+namenda,serotonin syndrome,166237,False,False
+wellbutrin,nausea,166237,False,False
+wellbutrin,vomiting,166237,False,False
+kaopectate,cramps of lower extremities,166237,False,False
+kaopectate,alopecia,166237,False,False
+chemotherapy,leukopenia,172206,False,False
+chemotherapy,elevated liver enzyme levels,172206,False,False
+8335	narcotic pain medicine,constipation,174339,False,False
+metoprolol,bradycardia,180167,True,True
+cardizem,bradycardia,180167,False,False
+beta blocker,presyncope,180167,False,False
+ccb,presyncope,180167,False,False
+dofetilide,presyncope,180167,False,True
+dofetilide,bradycardia,180167,True,True
+ccb,bradycardia,180167,False,False
+beta blocker,bradycardia,180167,False,False
+dofetilide,sinus bradycardia,180167,False,True
+metoprolol,sinus bradycardia,180167,False,True
+cardizem,sinus bradycardia,180167,False,False
+7396	narcotic pain medicine,constipation,181143,False,False
+insulin,hypoglycaemia,181643,True,True
+steroid,hyperglycaemia,181643,False,False
+narcotic pain meds,constipation,183331,False,False
+steroid,myopathy,183783,False,False
+steroid,myopathy,183783,False,False
+steroid,myopathy,183783,False,False
+stavudine,neuropathy peripheral,185289,True,True
+lu,hypoxia,185289,False,True
+ceftriaxone,rash,185982,True,True
+ceftazidime,rash,185982,True,True
+x,drug fever,185982,False,True
+antibiotics,rash,185982,False,False
+narcotics,constipation,185982,False,False
+azithromycin,head pressure,189637,False,True
+azithromycin,allergic skin reaction,189637,False,True
+insulin,hypoglycaemia,189637,True,True
+insulin,hypoglycaemia,189637,True,True
+azithromycin,hypotensive,189637,False,True
+azithromycin,allergic skin reaction,189637,False,True
+939	cholesterol lowering agents,rhabdomyolysis,191061,False,False
+oxycodone,sedation,193079,True,True
+12114	narcotic pain medicine,constipation,193079,False,False
+hctz,hyponatraemia,193079,False,False
+penicillin,food allergy,196911,False,True
+bactrim,febrile bone marrow aplasia,196911,False,False
+linezolid,febrile bone marrow aplasia,196911,False,True
+meropenem,a-fib,196911,False,True
+vincristine,neuropathy peripheral,196911,True,True
+x,cystitis haemorrhagic,196911,False,True
+vancocine,lips swelled,198207,False,True
+levaquin,lips swelled,198207,False,False
+vancocine,hives,198207,False,True
+levaquin,hives,198207,False,False
+vancocine,red man syndrome,198207,True,True
